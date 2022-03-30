@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="43px" viewBox="0 0 46 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>ecommerce</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Solutions" transform="translate(-999.000000, -2750.000000)" stroke="#6A1B9A">
+            <g id="04-Past-solutions" transform="translate(130.000000, 2182.000000)">
+                <g id="Industry-Icons" transform="translate(41.000000, 539.000000)">
+                    <g id="ecommerce" transform="translate(829.000000, 30.000000)">
+                        <polyline id="Stroke-1" points="38.1333333 8.78571429 38.1333333 0 0 0 0 41 38.1333333 41 38.1333333 33.1904762"></polyline>
+                        <path d="M0,5.31481481 L38.1333333,5.31481481" id="Stroke-3"></path>
+                        <path d="M2.93333333,2.27777778 L4.4,2.27777778" id="Stroke-5"></path>
+                        <path d="M7.33333333,2.27777778 L8.8,2.27777778" id="Stroke-7"></path>
+                        <path d="M10.2666667,2.27777778 L11.7333333,2.27777778" id="Stroke-9"></path>
+                        <path d="M18.4516129,10.6296296 L40.2150538,10.6296296 C42.3052903,10.6296296 44,12.3685495 44,14.5133145 L44,27.1352905 C44,29.2800555 42.3052903,31.0189754 40.2150538,31.0189754 L26.0215054,31.0189754 L21.0130753,36.1580615 C20.4169462,36.7697418 19.3978495,36.336711 19.3978495,35.4716202 L19.3978495,31.0189754 L18.4516129,31.0189754 C16.3613763,31.0189754 14.6666667,29.2800555 14.6666667,27.1352905 L14.6666667,14.5133145 C14.6666667,12.3685495 16.3613763,10.6296296 18.4516129,10.6296296 Z" id="Stroke-11" stroke-linejoin="round"></path>
+                        <polygon id="Stroke-13" stroke-linejoin="round" points="30.0666667 13.6666667 32.0384786 18.3083482 36.6666667 18.768362 33.2581266 22.5092675 34.1454895 27.2725386 30.0666667 25.1325623 25.9878438 27.3333333 26.8752068 22.4960953 23.4666667 18.768362 28.0948548 18.3083482"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

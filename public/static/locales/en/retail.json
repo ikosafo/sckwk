@@ -1,0 +1,40 @@
+{
+  "driver": [
+    {
+      "headline": "Assortment optimization",
+      "subline": "Cost reduction for category management",
+      "image": "/static/images/04 Retail Solutions/02-solutions/assortment.svg",
+      "text": "Retailers can gain competitive advantage by comprehending, monitoring and optimizing assortments at the macro, store cluster and store levels. They can leverage their insights to align the assortment with customer needs, simplify the supply chain and gain control of vendor negotiations."
+    },
+    {
+      "headline": "Promotion effectiveness",
+      "subline": "Cost reduction for promotions",
+      "image": "/static/images/04 Retail Solutions/02-solutions/promotion-effectiveness.svg",
+      "text": "Retailers get transparency on the effectiveness of promotion activities (revenue, margin, store visits) in order to develop strategies for more impact focused campaign management and discounts."
+    },
+    {
+      "headline": "Customer segmentation",
+      "subline": "Revenue increase through improved customer relationships",
+      "image": "/static/images/04 Retail Solutions/02-solutions/customer-segment.svg",
+      "text": "Retailers get transparency on their customers and different customer groups. They can make campaigns and offers more targeted, streamline the assortment towards customer’s needs."
+    },
+    {
+      "headline": "Store segmentation",
+      "subline": "Revenue increase through improved store footprint",
+      "image": "/static/images/04 Retail Solutions/02-solutions/store-segment.svg",
+      "text": "Retailers get transparency on their stores and different types of stores which helps them to derive a specific strategy for each sales location. "
+    },
+    {
+      "headline": "Pricing",
+      "subline": "Margin increase through optimized pricing",
+      "image": "/static/images/04 Retail Solutions/02-solutions/pricing.svg",
+      "text": "Retailers can optimize their pricing strategy by identifying Key Value Indicators, i.e. products for which the price is exceedingly important. Also, retailers can use competitive intelligence to adjust their prices and leverage local and temporal information to make prices dynamic. "
+    },
+    {
+      "headline": "Personalized promotions",
+      "subline": "Revenue increase through upselling",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text": "Retailers can make customer offers to customers based on their needs. By understanding which promotions are meaningful for a specific customer, retailers can move away from mass communication to personalized interactions with their customers."
+    }
+  ]
+}

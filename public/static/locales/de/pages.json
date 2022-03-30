@@ -1,0 +1,49 @@
+{
+  "button-flow": "Get Your Quote Now",
+  "teaser-line-1": "Wo stehen Sie in der Digitalisierung?",
+  "teaser-line-2": "Mit Scale Work das potential Ihrer Daten freisetzen.",
+  "teaser-line-3": "Finden Sie jetzt die richtigen Experten und arbeiten Sie gemeinsam im geschützten Datenraum von auraire.",
+
+  "packages-headline": "Unsere Pakete",
+  "packages-subline": "Wir glaube daran, dass in den Daten Ihr wahrer Schatz liegt. Starten Sie jett mit einen unserer Pakete.",
+  "packages": [
+    {
+      "title": "Ad hoc",
+      "price": "0",
+      "description": [
+        "Daten aufbereitung 4h",
+        "Daten analyse 3h",
+        "Businessfrage mit Experten diskutieren 1h"
+      ],
+      "buttonText": "Sign up for free",
+      "buttonVariant": "outlined"
+    },
+    {
+      "title": "Starter Paket",
+      "subheader": "Most popular",
+      "price": "15",
+      "description": [
+        "Freie Nutzung unseres Data Boards",
+        "<b>2</b> automatisierte KPI Dashboards",
+        "Data Analyst",
+        "Data Scientist"
+      ],
+      "buttonText": "Get started",
+      "buttonVariant": "contained"
+    },
+    {
+      "title": "Enterprise",
+      "price": "30",
+      "description": [
+        "3 Tages Workshop Data Science Roadmap",
+        "Monthly Roadmap Review mit Data Expert",
+        "Freie Nutzung unseres Data Boards",
+        "<b>unbegrenzt</b> KPI Dashboards",
+        "Zugang zu Data Expert",
+        "<b>unbegrenzt</b> Daten automatisierungs Pipeline <br/>(10 Mio Datenpunkte pro Monat incl.)"
+      ],
+      "buttonText": "Contact us",
+      "buttonVariant": "outlined"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "button-flow": "Get Your Quote Now",
+  "button-login": "Login",
+  "teaser-line-1": "Your custom data solution configurator",
+  "teaser-line-2": "Within 4 clicks you will get your tailored project quote and summary.",
+  "teaser-line-3": "",
+  "packages-headline": "Our Packages",
+  "packages-subline": "We designed straight forward services for organizations that want to advance their data-driven approach in the most cost effective way possible. ",
+  "packages-mark": "Please note that we are currently in early sign-up and will change our pricing starting July 2019.",
+  "packages": [
+    {
+      "title": "1-Day Data and Analytics Strategy Workshop",
+      "price": "2000",
+      "description": [
+        "One day workshop with our senior management.  ",
+        "Develop a better understanding of how you can generate value from your company data and how to set yourself apart from the competition. "
+      ],
+      "buttonText": "Inquire now",
+      "buttonVariant": "outlined"
+    },
+    {
+      "title": "Business Analysts as a Service",
+      "subheader": "Most popular",
+      "price": "500",
+      "description": [
+        "Data Cleaning",
+        "Ad-hoc Business Reports",
+        "Executive Committee Analysis ",
+        "Visual/Powerpoint"
+      ],
+      "buttonText": "Inquire now",
+      "buttonVariant": "contained"
+    },
+    {
+      "title": "Secure Data Collaboration Platform as a Service ",
+      "price": "50",
+      "description": [
+        "Leverage our secure data collaboration platform to work with multiple stakeholders on your data sets and ensure data security at all times. "
+      ],
+      "buttonText": "Inquire now",
+      "buttonVariant": "outlined"
+    }
+  ]
+}

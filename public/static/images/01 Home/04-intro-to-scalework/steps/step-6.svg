@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="320px" height="318px" viewBox="0 0 320 318" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>step-6</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-829.000000, -2998.000000)">
+            <g id="03-Quick-introduction" transform="translate(80.000000, 1953.000000)">
+                <g id="Group-Copy-4" transform="translate(684.000000, 979.000000)">
+                    <g id="step-6">
+                        <path d="M290.464831,183.357075 C298.110532,195.293292 302.731299,209.328963 302.731299,224.473333 C302.731299,266.910595 267.861183,301.445421 224.988091,301.445421 C182.114998,301.445421 147.244883,266.910595 147.244883,224.473333 C147.244883,182.012482 182.114998,147.477656 224.988091,147.477656 C233.634164,147.477656 241.827689,149.223269 249.616301,151.818099 L311.020097,91.0047236 C286.153703,75.2470299 256.690361,66 224.988091,66 C136.621883,66 65,136.956801 65,224.449744 C65,311.966276 136.621883,382.923077 224.988091,382.923077 C313.354298,382.923077 385,311.966276 385,224.449744 C385,186.777533 371.637886,152.171939 349.439151,124.973405 L290.464831,183.357075 Z" id="SW-Ring" fill-opacity="0.2" fill="#E3E3E3" transform="translate(225.000000, 224.461538) rotate(320.000000) translate(-225.000000, -224.461538) "></path>
+                        <g id="increase" transform="translate(174.000000, 189.000000)" stroke="#E3E3E3" stroke-width="2">
+                            <polygon id="Stroke-1" points="46 0 56 10 38 28 46 36 54 28 66 40 76 30 86 40 86 0"></polygon>
+                            <polygon id="Stroke-3" points="32 46 38 40 32 34 26 40"></polygon>
+                            <path d="M76,51 L60,67" id="Stroke-4"></path>
+                            <path d="M56,70 L52,74" id="Stroke-5"></path>
+                            <path d="M47,78 L43,82" id="Stroke-6"></path>
+                            <path d="M34,14 L16,32" id="Stroke-8"></path>
+                            <polygon id="Stroke-9" points="24 62 30 56 24 50 18 56"></polygon>
+                            <polygon id="Stroke-10" points="28 80 34 74 28 68 22 74"></polygon>
+                            <polygon id="Stroke-12" points="42 66 48 60 42 54 36 60"></polygon>
+                            <polygon id="Stroke-13" points="54 54 60 48 54 42 48 48"></polygon>
+                            <polygon id="Stroke-14" points="6 72 12 66 6 60 0 66"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

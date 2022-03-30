@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="20px" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 17</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Solutions" transform="translate(-951.000000, -211.000000)" stroke="#DF265E" stroke-width="0.7">
+            <g id="Secondary-menu" transform="translate(920.000000, 81.000000)">
+                <g id="Group-3" transform="translate(30.000000, 27.000000)">
+                    <g id="Group-17" transform="translate(1.000000, 103.000000)">
+                        <path d="M0.35,2.85 L0.35,17.35 C0.35,17.626 0.574,17.85 0.85,17.85 L8.147,17.85 C8.598,17.85 9.031,18.03 9.349,18.349 L9.352,18.351 C9.671,18.67 10.104,18.85 10.555,18.85 L13.145,18.85 C13.596,18.85 14.03,18.67 14.348,18.351 L14.349,18.349 C14.668,18.03 15.102,17.85 15.553,17.85 L22.85,17.85 C23.126,17.85 23.35,17.626 23.35,17.35 L23.35,12.35" id="Stroke-1"></path>
+                        <path d="M4.35,1.35 L2.35,1.35 L2.35,15.85 L9.35,15.85 C10.319,15.85 10.975,16.35 11.35,16.85 L11.85,16.85 L11.85,4.35 C11.85,2.725 10.873,1.35 8.85,1.35 L7.35,1.35" id="Stroke-3"></path>
+                        <path d="M21.35,2.85 L21.35,1.35 L14.85,1.35 C12.827,1.35 11.85,2.725 11.85,4.35 L11.85,16.85 L12.35,16.85 C12.725,16.121 13.381,15.85 14.35,15.85 L21.35,15.85 L21.35,13.85" id="Stroke-5"></path>
+                        <polygon id="Stroke-7" points="4.35 6.35 5.85 5.35 7.35 6.35 7.35 0.35 4.35 0.35"></polygon>
+                        <path d="M23.35,8.35 C23.35,10.835 21.335,12.85 18.85,12.85 C16.365,12.85 14.35,10.835 14.35,8.35 C14.35,5.865 16.365,3.85 18.85,3.85 C21.335,3.85 23.35,5.865 23.35,8.35 Z" id="Stroke-9" stroke-linejoin="round"></path>
+                        <polyline id="Stroke-11" points="20.35 10.35 18.85 10.35 18.85 7.35 17.85 7.35"></polyline>
+                        <path d="M17.35,10.35 L18.85,10.35" id="Stroke-13" stroke-linejoin="round"></path>
+                        <path d="M18.85,6.35 L18.85,5.35" id="Stroke-15" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

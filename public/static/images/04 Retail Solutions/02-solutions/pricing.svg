@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="262px" height="262px" viewBox="0 0 262 262" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 5</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 259 259 259 259 0 0 0"></polygon>
+        <polygon id="path-3" points="0 259 259 259 259 0 0 0"></polygon>
+    </defs>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Industry-Solutions" transform="translate(-589.000000, -2611.000000)">
+            <g id="Group-5" transform="translate(588.000000, 2611.000000)">
+                <g id="Pricing" transform="translate(4.000000, 4.000000)">
+                    <polyline id="Stroke-1" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" points="135.391304 27 6 27 6 5 254 5 254 27 237.826087 27"></polyline>
+                    <path d="M16,43 L16,183.214286 C16,189.168 20.8426667,194 26.8095238,194 L232.190476,194 C238.157333,194 243,189.168 243,183.214286 L243,134.678571" id="Stroke-3" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round"></path>
+                    <path d="M129.5,194 L129.5,221" id="Stroke-5" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <polygon id="Stroke-7" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="119 253 141 253 141 221 119 221"></polygon>
+                    <path d="M243,81 C243,110.8242 218.8188,135 189,135 C159.1812,135 135,110.8242 135,81 C135,51.1758 159.1812,27 189,27 C218.8188,27 243,51.1758 243,81 Z" id="Stroke-9" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <path d="M205,70 L205,64.5 C205,61.464 202.616,59 199.666667,59 L178.333333,59 C175.384,59 173,61.464 173,64.5 L173,75.5 C173,78.536 175.384,81 178.333333,81 L189,81" id="Stroke-10" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <path d="M173,92 L173,97.5 C173,100.536 175.384,103 178.333333,103 L199.666667,103 C202.616,103 205,100.536 205,97.5 L205,86.5 C205,83.464 202.616,81 199.666667,81 L189,81" id="Stroke-11" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <path d="M188.5,59 L188.5,43" id="Stroke-12" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <path d="M188.5,119 L188.5,103" id="Stroke-13" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <polyline id="Stroke-14" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="38 173 75.8548896 135.351869 124.525462 135.351869 146 114"></polyline>
+                    <polyline id="Stroke-15" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="221 157 221 173 205 173"></polyline>
+                    <polygon id="Stroke-16" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="38 70 87 70 87 48 38 48"></polygon>
+                    <path d="M32,91.5 L102,91.5" id="Stroke-17" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <path d="M32,113.5 L43,113.5" id="Stroke-18" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <path d="M54,113.5 L65,113.5" id="Stroke-19" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Pricing">
+                    <polyline id="Stroke-1" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" points="135.391304 27 6 27 6 5 254 5 254 27 237.826087 27"></polyline>
+                    <path d="M16,43 L16,183.214286 C16,189.168 20.8426667,194 26.8095238,194 L232.190476,194 C238.157333,194 243,189.168 243,183.214286 L243,134.678571" id="Stroke-3" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round"></path>
+                    <path d="M129.5,194 L129.5,221" id="Stroke-5" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round"></path>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-8"></g>
+                    <polygon id="Stroke-7" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="119 253 141 253 141 221 119 221"></polygon>
+                    <path d="M243,81 C243,110.8242 218.8188,135 189,135 C159.1812,135 135,110.8242 135,81 C135,51.1758 159.1812,27 189,27 C218.8188,27 243,51.1758 243,81 Z" id="Stroke-9" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <path d="M205,70 L205,64.5 C205,61.464 202.616,59 199.666667,59 L178.333333,59 C175.384,59 173,61.464 173,64.5 L173,75.5 C173,78.536 175.384,81 178.333333,81 L189,81" id="Stroke-10" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <path d="M173,92 L173,97.5 C173,100.536 175.384,103 178.333333,103 L199.666667,103 C202.616,103 205,100.536 205,97.5 L205,86.5 C205,83.464 202.616,81 199.666667,81 L189,81" id="Stroke-11" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <path d="M188.5,59 L188.5,43" id="Stroke-12" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <path d="M188.5,119 L188.5,103" id="Stroke-13" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <polyline id="Stroke-14" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="38 173 75.8548896 135.351869 124.525462 135.351869 146 114"></polyline>
+                    <polyline id="Stroke-15" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="221 157 221 173 205 173"></polyline>
+                    <polygon id="Stroke-16" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="38 70 87 70 87 48 38 48"></polygon>
+                    <path d="M32,91.5 L102,91.5" id="Stroke-17" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <path d="M32,113.5 L43,113.5" id="Stroke-18" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <path d="M54,113.5 L65,113.5" id="Stroke-19" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

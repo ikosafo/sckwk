@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="93px" viewBox="0 0 93 93" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 27</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-1039.000000, -4156.000000)" stroke="#6A1B9A" stroke-width="2">
+            <g id="04-Why-SCALEWORK" transform="translate(0.000000, 3575.000000)">
+                <g id="Group-27" transform="translate(1040.000000, 582.000000)">
+                    <path d="M3.95652174,16 C1.77252174,16 0,17.764 0,19.9375 L0,75.0625 C0,77.236 1.77252174,79 3.95652174,79 L87.0434783,79 C89.2274783,79 91,77.236 91,75.0625 L91,19.9375 C91,17.764 89.2274783,16 87.0434783,16 L3.95652174,16 Z" id="Stroke-1"></path>
+                    <polyline id="Stroke-3" points="23 89 23 91 67 91 67 89"></polyline>
+                    <path d="M30,91 L30,79" id="Stroke-5"></path>
+                    <path d="M61,91 L61,79" id="Stroke-7"></path>
+                    <path d="M0,67 L91,67" id="Stroke-9"></path>
+                    <polyline id="Stroke-11" points="16 24 8 24 8 32"></polyline>
+                    <path d="M8,36 L8,40" id="Stroke-13"></path>
+                    <polyline id="Stroke-15" points="75 24 83 24 83 32"></polyline>
+                    <path d="M83,36 L83,40" id="Stroke-17"></path>
+                    <path d="M57,56 L33,56 C30.792,56 29,54.208 29,52 L29,30 C29,27.792 30.792,26 33,26 L57,26 C59.208,26 61,27.792 61,30 L61,52 C61,54.208 59.208,56 57,56 Z" id="Stroke-19"></path>
+                    <path d="M57,26 L57,12 C57,5.374 51.626,0 45,0 C38.374,0 33,5.374 33,12 L33,26" id="Stroke-21"></path>
+                    <path d="M49,38 C49,35.792 47.208,34 45,34 C42.792,34 41,35.792 41,38 C41,40.208 42.792,42 45,42 C47.208,42 49,40.208 49,38 Z" id="Stroke-23"></path>
+                    <path d="M45,42 L45,50" id="Stroke-25"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

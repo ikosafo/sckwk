@@ -1,0 +1,60 @@
+{
+  "driver": [
+    {
+      "headline": "Call center routing",
+      "subline": "Cost reduction for call center operations.",
+      "image": "/static/images/04 Retail Solutions/02-solutions/assortment.svg",
+      "text":"Telcos can automatically route customers to the best service personnel available. This will reduce call center costs massively and increase customer satisfaction as customer service will be faster and better adjusted to the customer’s needs. "
+    },{
+      "headline": "Predictive Issue identification",
+      "subline": "Cost reduction for call center operations",
+      "image": "/static/images/04 Retail Solutions/02-solutions/promotion-effectiveness.svg",
+      "text":"Telcos can identify potential issues and their root causes in the network or at customers’ access points in order to avoid long problem identification processes with service personnel. The service staff can focus on solving the customer’s problem instead of spending time to find the root cause."
+    },{
+      "headline": "Predictive Maintenance",
+      "subline": "Cost reduction for call center operations",
+      "image": "/static/images/04 Retail Solutions/02-solutions/customer-segment.svg",
+      "text":"Telcos can identify problems and outages before they occur. They can avoid long outage periods for their customers by predicting failures and sending out service staff to fix the problems."
+    },{
+      "headline": "Churn",
+      "subline": "Revenue increase through extended customer relationships",
+      "image": "/static/images/04 Retail Solutions/02-solutions/store-segment.svg",
+      "text":"Telcos can identify likely churners and identify offers that will convince them to stay."
+    },{
+      "headline": "Customer segmentation",
+      "subline": "Revenue increase through improved customer relationships",
+      "image": "/static/images/04 Retail Solutions/02-solutions/pricing.svg",
+      "text":"Telcos can improve their customer understanding by identifying homogenous customer segments. This enables the provider to adjust tactical and strategic decisions towards their customers' needs."
+    },{
+      "headline": "Store segmentation",
+      "subline": "Revenue increase through improved store locations",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text":"Telcos get transparency on their stores identifying different types of stores with a similar profile. This will help them to derive a specific strategy for each sales location.`"
+    },{
+      "headline": "Pricing",
+      "subline": "Margin increase through optimized pricing",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text":"Telcos can optimize their pricing strategy by identifying their customers’ willingness to pay. Also, telcos can use competitive intelligence to adjust their prices and leverage local and temporal information to make prices dynamic. \u200B`"
+    },{
+      "headline": "Personalized promotions",
+      "subline": "Revenues through upselling due to more relevant promotions",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text":"Telcos can customize offers to customers based on their needs. By understanding which promotions are meaningful for a specific customer, telcos can move away from mass communication to personalized interactions with their customers"
+    },{
+      "headline": "Branch footprint",
+      "subline": "Revenue increase through improved store footprint",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text":"Telcos can find the ideal location for their next branch or decide which stores to close/merge."
+    },{
+      "headline": "Fraud detection",
+      "subline": "Cost reduction from reduced fraud",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text":"Telcos can detect and avoid fraud through customers such as customers not paying their bills."
+    },{
+      "headline": "Network footprint optimization",
+      "subline": "Reduced costs through limiting investments",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text":"Telcos can find the ideal location for their next cell towers making their massive investments most impactful."
+    }
+  ]
+}

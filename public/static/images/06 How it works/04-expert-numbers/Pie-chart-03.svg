@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Pie-Chart-03</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-How-it-works" transform="translate(-153.000000, -8236.000000)">
+            <g id="08-Specialization-breakdown" transform="translate(153.000000, 7737.000000)">
+                <g id="Pie-Profiles" transform="translate(0.000000, 482.000000)">
+                    <g id="Pie-Chart-03" transform="translate(0.000000, 16.000000)">
+                        <path d="M99.7834,100.7824 L85.8954,1.9704 C90.3164,1.3494 95.3194,0.9994 99.7834,0.9994 L99.7834,100.7824 Z" id="Fill-1" fill="#979797"></path>
+                        <path d="M99.7834,100.7824 L26.8064,32.7304 C43.2304,15.1184 62.0484,5.3224 85.8954,1.9704 L99.7834,100.7824 Z" id="Fill-4" fill="#01BCD4"></path>
+                        <path d="M99.7834,100.7824 L17.0584,44.9844 C19.9254,40.7354 23.3104,36.4784 26.8064,32.7304 L99.7834,100.7824 Z" id="Fill-6" fill="#0097A7"></path>
+                        <path d="M99.7834,100.7824 L12.5114,52.4064 C14.1674,49.4184 15.1484,47.8174 17.0584,44.9844 L99.7834,100.7824 Z" id="Fill-8" fill="#BA68C8"></path>
+                        <path d="M99.7834,100.7824 L6.6274,65.0234 C8.2274,60.8564 10.3464,56.3104 12.5114,52.4064 L99.7834,100.7824 Z" id="Fill-10" fill="#6A1B9A"></path>
+                        <path d="M99.7834,100.7824 L0.0004,100.7824 C0.0004,87.3914 1.8284,77.5254 6.6274,65.0234 L99.7834,100.7824 Z" id="Fill-12" fill="#212121"></path>
+                        <path d="M99.7834,100.7824 L99.7834,0.9994 C154.8914,0.9994 199.5664,45.6744 199.5664,100.7824 C199.5664,155.8914 154.8914,200.5654 99.7834,200.5654 C44.6744,200.5654 0.0004,155.8914 0.0004,100.7824 L99.7834,100.7824 Z" id="Fill-14" fill="#DF265E"></path>
+                        <circle id="Oval" fill="#FFFFFF" cx="100" cy="101" r="79"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

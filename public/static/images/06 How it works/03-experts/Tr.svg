@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 14</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-How-it-works" transform="translate(-153.000000, -5674.000000)">
+            <g id="06-Specializations" transform="translate(0.000000, 4882.000000)">
+                <g id="Group-3-Copy-4" transform="translate(153.000000, 792.000000)">
+                    <g id="Group-14">
+                        <circle id="Oval" fill="#DF265E" cx="64" cy="64" r="64"></circle>
+                        <g id="Group-5" transform="translate(28.000000, 36.000000)" stroke="#FFFFFF" stroke-width="2">
+                            <polygon id="Stroke-1" points="27.2803 10.7998 27.2803 55.8398 15.1203 55.8398 15.1203 10.7998 0.0003 10.7998 0.0003 -0.0002 42.3993 -0.0002 42.3993 10.7998"></polygon>
+                            <path d="M46.9316,55.8398 L46.9316,13.8398 L58.7726,13.8398 L58.7726,22.9598 L59.1716,22.9598 C59.3846,21.7868 59.7586,20.6538 60.2916,19.5598 C60.8246,18.4668 61.5326,17.4938 62.4116,16.6398 C63.2916,15.7868 64.3446,15.1078 65.5726,14.5998 C66.7986,14.0938 68.2386,13.8398 69.8926,13.8398 L71.9716,13.8398 L71.9716,24.8798 L69.0116,24.8798 C65.5446,24.8798 62.9716,25.3338 61.2916,26.2398 C59.6126,27.1478 58.7726,28.8268 58.7726,31.2798 L58.7726,55.8398 L46.9316,55.8398 Z" id="Stroke-3"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

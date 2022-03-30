@@ -1,0 +1,521 @@
+[
+  {
+    "icons":"Bank.svg",
+    "title":"Banking and Investments",
+    "keywords":"Including: commercial banking, consumer finance, asset management, investment banking, trading, exchanges, private equity, venture capital, etc.",
+    "solutions": [
+      {
+        "solution":"Credit risk assessment",
+        "impact":"Decrease of provisions for liabilities and charges through more precise risk assessment",
+        "description":"Banks can predict the Probability of Default (PD) and Exposure at Default (EAD) more precisely by using Machine Learning models compared to traditional score cards. By modern techniques, explainability of such models is also possible to ensure auditability by regulators."
+      },
+      {
+        "solution":"Call center routing",
+        "impact":"Cost reduction for call center operations",
+        "description":"Banks can automatically route customers to the best service personnel available massively reducing costs in the call center and time by customer spent on service calls."
+      },
+      {
+        "solution":"Process Optimization",
+        "impact":"Cost reduction through faster business processes",
+        "description":"Banks can identify potential issues in their business processes through process mining. Using these insights, business processes can be optimized to save costs."
+      },
+      {
+        "solution":"Churn",
+        "impact":"Revenue increase through extended customer relationships",
+        "description":"Banks can identify likely churners and identify offers that will convince them to stay."
+      },
+      {
+        "solution":"Customer segmentation",
+        "impact":"Revenue increase through improved customer relationships",
+        "description":"Banks can improve their customer understanding in order to adjust tactical and strategic decisions towards their customers' needs."
+      },
+      {
+        "solution":"Branch segmentation",
+        "impact":"Revenue increase through improved store locations",
+        "description":"Banks gain transparency on their branches and different types of branches and which services customers use to derive a specific strategy for each location."
+      },
+      {
+        "solution":"Personalized promotions",
+        "impact":"Revenues through upselling due to more relevant promotions",
+        "description":"Banks can make offers to customers based on their needs. By understanding which promotions are meaningful for a specific customer, retailers can move away from mass communication to personalized interactions with their customers."
+      },
+      {
+        "solution":"Branch footprint",
+        "impact":"Revenue increase through improved store footprint",
+        "description":"Banks can find the ideal location for their next branch or decide which branches to close or merge."
+      },
+      {
+        "solution":"AML",
+        "impact":"Cost reduction through improved AML processes",
+        "description":"Banks can automatically identify cases of money laundering (shell companies, money mules, etc.) from their transaction data. These insights can be used to optimize the AML process and reduce manual investigations into potential cases of money laundering."
+      }
+    ]
+  },{
+  "icons":"consumer.svg",
+  "title":"Consumer goods",
+  "keywords":"Including: consumer packaged goods, including food, beverages, make-up, household products.",
+  "solutions": [
+    {
+      "solution":"Predictive Maintenance",
+      "impact":"Reduce costs from outages",
+      "description":"CPGs can avoid long outage periods of expensive machinery by predicting failures and adjusting maintenance cycles accordingly."
+    },
+    {
+      "solution":"Anomaly detection",
+      "impact":"Reduce costs from production failures",
+      "description":"CPGs can avoid production failures through monitoring the production process through sensor data. Anomalies will give an indication of potential problems in the production process."
+    },
+    {
+      "solution":"Customization",
+      "impact":"Increase revenue by better matching customers' preferences",
+      "description":"CPGs can customize the production process to specific products by analyzing process data and leveraging efficiencies."
+    },
+    {
+      "solution":"Demand forecasting",
+      "impact":"Reduction of inventory costs",
+      "description":"CPGs can adjust production volume for each product to the actual demand by forecasting it and then adjusting the production planning accordingly."
+    },
+    {
+      "solution":"Purchase order automation",
+      "impact":"Increase of revenue through a simplified ordering process",
+      "description":"CPGs can predict demand for supply and automate the ordering process to ensure a seamless production with just-in-time deliveries."
+    },
+    {
+      "solution":"Quality assurance",
+      "impact":"Reduce costs from production failures",
+      "description":"CPGs can identify reasons for production failures by analyzing sensor data from the involved machines. They can identify which states of the machines were responsible for the production failures in order to take actions and avoid the errors."
+    },
+    {
+      "solution":"Planning and scheduling",
+      "impact":"Cost reduction through better production planning",
+      "description":"CPGs can optimize their production planning by merging demand, supply and process information and establish a schedule that has short downtimes and highest output."
+    },
+    {
+      "solution":"Energy efficiency",
+      "impact":"Cost reduction of energy expenses",
+      "description":"CPGs can reduce energy usage by identifying process steps with high energy usage and adjusting the whole process to minimize energy costs (or to maximize overall profitability)."
+    },
+    {
+      "solution":"Shift planning",
+      "impact":"Cost reduction through better shift planning",
+      "description":"CPGs can optimize the schedule for shift workers based on availability, required skill levels, production planning etc."
+    },
+    {
+      "solution":"Product optimization",
+      "impact":"Increase of revenue through improved products",
+      "description":"CPGs can adjust their products by gaining a better understanding of links between the production process, suppliers, product quality, and customer demand."
+    },
+    {
+      "solution":"Supply chain optimization",
+      "impact":"Cost reduction through reduced product complexity and improved supply chain",
+      "description":"CPGs can optimize supply, delivery routes, intermediate storage etc., to reduce logistics costs."
+    },
+    {
+      "solution":"Stock optimization",
+      "impact":"Cost reduction from reduced stock",
+      "description":"CPGs can minimize stock keeping for a given service level for their customers."
+    },
+    {
+      "solution":"Pricing",
+      "impact":"Margin increase through optimized pricing",
+      "description":"CPGs agencies can optimize their pricing strategy by identifying willingness to pay by retailers. Also, CPGs can use competitive intelligence to adjust their prices in order to have a better position in negotiations with retailers."
+    }
+  ]
+},{
+  "icons":"consumer-durable.svg",
+  "title":"Consumer durable goods and apparel",
+  "keywords":"Including: cars and accessories, electronics, furniture, apparel, clothing, appliances, etc.",
+  "solutions": [
+    {
+      "solution":"Demand forecasting",
+      "impact":"Reduction of inventory costs",
+      "description":"CPGs can adjust production volume for each product to the actual demand by forecasting it and then adjusting the production planning accordingly."
+    },
+    {
+      "solution":"Purchase order automation",
+      "impact":"Increase of revenue through simplified ordering process",
+      "description":"CPGs can predict demand for supply and automate the ordering process to ensure a seamless production with just-in-time deliveries. This will also reduce the costs of stock-keeping."
+    },
+    {
+      "solution":"Quality assurance",
+      "impact":"Reduction of costs from production failures",
+      "description":"CPGs can identify reasons for production failures by analyzing sensor data from the involved machines. They can identify which states of the machines were responsible for the production failures in order to take actions to avoid the errors."
+    },
+    {
+      "solution":"Predictive Maintenance",
+      "impact":"Reduce costs from outages",
+      "description":"CPGs can avoid long outage periods of expensive machinery by predicting failures and adjusting maintenance cycles accordingly."
+    },
+    {
+      "solution":"Anomaly detection",
+      "impact":"Reduction of costs from production failures",
+      "description":"CPGs can avoid production failures through monitoring the production process through sensor data. Anomalies will give an indication of potential problems in the production process."
+    },
+    {
+      "solution":"Customization",
+      "impact":"Increase revenue by better matching customers' preferences",
+      "description":"CPGs can customize the production process to specific products by analyzing process data and leveraging efficiencies."
+    },
+    {
+      "solution":"Planning and scheduling",
+      "impact":"Cost reduction through better production planning",
+      "description":"CPGs can optimize their production planning by merging demand, supply and process information and establish a schedule that has short downtimes and highest output."
+    },
+    {
+      "solution":"Energy efficiency",
+      "impact":"Cost reduction of energy expenses",
+      "description":"CPGs can reduce energy usage by identifying process steps with high energy usage and adjusting the whole process to minimize energy costs (or to maximize overall profitability)."
+    },
+    {
+      "solution":"Shift planning",
+      "impact":"Cost reduction through better shift planning",
+      "description":"CPGs can optimize the schedule for shift workers based on availability, required skill levels, production planning etc."
+    },
+    {
+      "solution":"Product optimization",
+      "impact":"Increase of revenue through improved products",
+      "description":"CPGs can adjust their products by gaining a better understanding of links between the production process, suppliers, product quality, and customer demand."
+    },
+    {
+      "solution":"Supply chain optimization",
+      "impact":"Cost reduction through reduced product complexity and improved supply chain",
+      "description":"CPGs can optimize supply, delivery routes, intermediate storage etc. to reduce logistics costs."
+    },
+    {
+      "solution":"Stock optimization",
+      "impact":"Cost reduction from reduced stock",
+      "description":"CPGs can minimize stock keeping for a given service level for their customers."
+    },
+    {
+      "solution":"Pricing",
+      "impact":"Margin increase through optimized pricing",
+      "description":"CPGs agencies can optimize their pricing strategy by identifying willingness to pay by retailers. Also, CPGs can use competitive intelligence to adjust their prices in order to have a better position in negotiations with retailers."
+    }
+  ]
+},{
+  "icons":"ecommerce.svg",
+  "title":"E-Commerce",
+  "keywords":"Including: B2C including online retail clothing, drugs, special interest, etc.; B2B including business processes, cloud services, marketplaces.",
+  "solutions": [
+    {
+      "solution":"Promotion effectiveness",
+      "impact":"Cost reduction for promotions",
+      "description":"E-commerce players gain transparency on the effectiveness of promotion activities (revenue, margin, website visits) to develop strategies for more impact-focused campaign management and discounts."
+    },
+    {
+      "solution":"Customer segmentation",
+      "impact":"Revenue increase through improved customer relationships",
+      "description":"E-commerce players gain transparency on their customers and different customer groups. They can make campaigns and offers more targeted and streamline the assortment towards customer needs."
+    },
+    {
+      "solution":"Dynamic pricing",
+      "impact":"Margin increase through optimized pricing",
+      "description":"E-commerce players can optimize their pricing strategy by identifying key value items, i.e. products for which price is exceptionally important. In addition, retailers can use competitive intelligence through web crawling to adjust their prices dynamically."
+    },
+    {
+      "solution":"Personalized promotions",
+      "impact":"Revenue increase through upselling",
+      "description":"E-commerce players can make customer offers to customers based on their needs. By understanding which promotions are meaningful for a specific customer, retailers can move away from mass communication to personalized interactions with their customers."
+    },
+    {
+      "solution":"Assortment optimization",
+      "impact":"Cost reduction through reduced product complexity and improved supply chain.",
+      "description":"E-commerce players can tailor their assortment towards customer needs de-listing products that are substitutable and reduce complexity of the entire supply chain."
+    },
+    {
+      "solution":"Demand forecasting",
+      "impact":"Cost reduction for stocks and revenue increase through additional sales",
+      "description":"E-commerce players gain insights on customer demand for every product in advance and can plan logistics and sales accordingly"
+    },
+    {
+      "solution":"Stock optimization",
+      "impact":"Reduction of inventory costs",
+      "description":"E-commerce players minimize stock keeping at a given service level for their customers."
+    },
+    {
+      "solution":"Vendor negotiations",
+      "impact":"Margin improvement through better purchase prices",
+      "description":"Through a better understanding of products and assortment e-commerce players have an advantage over their suppliers in vendor negotiations."
+    },
+    {
+      "solution":"Supply Chain Optimization",
+      "impact":"Cost reduction in the supply chain",
+      "description":"E-commerce players can optimize delivery routes, intermediate storage etc., to reduce logistics costs."
+    },
+    {
+      "solution":"Branch footprint",
+      "impact":"Revenue increase through improved store locations",
+      "description":"E-commerce players can find the ideal location for their next branch or decide which stores to close or merge."
+    },
+    {
+      "solution":"Trend forecasting",
+      "impact":"Increase revenues through increased sales volume",
+      "description":"E-commerce players can predict future customer trends to plan purchases and sales strategies ahead."
+    },
+    {
+      "solution":"Fraud detection",
+      "impact":"Reduce costs through reduced fraud",
+      "description":"E-commerce players can detect fraudulent activity from users and reduce susceptibility to fraud."
+    }
+  ]
+},{
+  "icons":"farming.svg",
+  "title":"Agriculture and farming",
+  "keywords":"",
+  "solutions": [
+    {
+      "solution":"Yield optimization",
+      "impact":"Increase of revenue through additional yield",
+      "description":"Agriculture companies can identify drivers for high yield in very complex production or farming processes. They can find the optimal set of control levers for reaching the highest output of the production process."
+    },
+    {
+      "solution":"Planning and scheduling",
+      "impact":"Cost reduction through better production planning",
+      "description":"Agriculture companies can optimize their production planning by merging demand, supply and process information and establish a schedule that has short downtimes and high output."
+    },
+    {
+      "solution":"Energy efficiency",
+      "impact":"Cost reduction of energy expenses",
+      "description":"Agriculture companies can reduce energy usage by identifying process steps with high energy usage and adjusting the whole process to minimize energy costs (or to maximize overall profitability)."
+    },
+    {
+      "solution":"Predictive Maintenance",
+      "impact":"Reduce costs from outages",
+      "description":"Agriculture companies can avoid long outage periods of expensive machinery by predicting failures and adjusting maintenance cycles accordingly."
+    },
+    {
+      "solution":"Anomaly detection",
+      "impact":"Reduce costs from production failures",
+      "description":"Agriculture companies can avoid production failures through monitoring the production process through sensor data. Anomalies will give an indication of potential problems in the production process."
+    },
+    {
+      "solution":"Demand forecasting",
+      "impact":"Reduction of inventory costs",
+      "description":"Agriculture companies can adjust production volume for their product to the actual demand by forecasting it and then adjusting the production planning accordingly."
+    },
+    {
+      "solution":"Purchase order automation",
+      "impact":"Increase of revenue through simplified ordering process",
+      "description":"Agriculture companies can predict demand for supply and automate the ordering process to ensure a seamless production with just-in-time deliveries. This will also reduce costs of stock keeping."
+    },
+    {
+      "solution":"Quality assurance",
+      "impact":"Reduction of costs from production failures",
+      "description":"Agriculture companies can identify reasons for production failures by analyzing sensor data from the involved machines. They can identify which states of the machines were responsible for the production failures in order to take actions and avoid the errors."
+    },
+    {
+      "solution":"Shift planning",
+      "impact":"Cost reduction through better shift planning",
+      "description":"Agriculture companies can optimize the schedule for shift workers based on Agriculture companies, required skill levels, production planning etc."
+    },
+    {
+      "solution":"Supply chain optimization",
+      "impact":"Cost reduction through reduced product complexity and improved supply chain",
+      "description":"Agriculture companies can optimize supply, delivery routes, intermediate storage etc. to reduce logistics costs"
+    },
+    {
+      "solution":"Stock optimization",
+      "impact":"Cost reduction from reduced stock",
+      "description":"Agriculture companies can minimize stock keeping for seeds, fertilizer and harvest"
+    },
+    {
+      "solution":"Crop diseases and pests",
+      "impact":"Minimize costs through crop diseases and pests",
+      "description":"Agricultural pests can quickly cut into a farmer's profits. But, misusing pesticides can have adverse effects on people, plants and other living things. But agriculture companies can develop user-facing platforms that analyze when to apply pesticides and how much to use."
+    },
+    {
+      "solution":"Yield prediction",
+      "impact":"Reduced costs through better planning",
+      "description":"Satellite-based crop monitoring to inspect areas can help agriculture companies to get prompt updates and alerts about potential problems."
+    }
+  ]
+},{
+  "icons":"industrials.svg",
+  "title":"Industrials",
+  "keywords":"Including: buildings, electronics, aerospace, machinery, etc.",
+  "solutions": [
+    {
+      "solution":"Shift planning",
+      "impact":"Cost reduction through better shift planning",
+      "description":"Industrials can optimize the schedule for shift workers based on availability, required skill levels, production planning etc."
+    },
+    {
+      "solution":"Product optimization",
+      "impact":"Increase of revenue through improved products",
+      "description":"Industrials can adjust their products by gaining a better understanding of links between the production process, suppliers, product quality, and customer demand."
+    },
+    {
+      "solution":"Supply chain optimization",
+      "impact":"Cost reduction through reduced product complexity and improved supply chain",
+      "description":"Industrials can optimize supply, delivery routes, intermediate storage etc. to reduce logistics costs."
+    },
+    {
+      "solution":"Predictive Maintenance",
+      "impact":"Reduce costs from outages",
+      "description":"Industrials can avoid long outage periods of expensive machinery by predicting failures and adjusting maintenance cycles accordingly."
+    },
+    {
+      "solution":"Anomaly detection",
+      "impact":"Reduce costs from production failures",
+      "description":"Industrials can avoid production failures through monitoring the production process through sensor data. Anomalies will give an indication of potential problems in the production process."
+    },
+    {
+      "solution":"Customization",
+      "impact":"Increase revenue by better matching customers' preferences",
+      "description":"Industrials can customize the production process to specific products by analyzing process data and leveraging efficiencies"
+    },
+    {
+      "solution":"Demand forecasting",
+      "impact":"Reduction of inventory costs",
+      "description":"Industrials can adjust production volume for each product to the actual demand by forecasting it and then adjusting the production planning accordingly."
+    },
+    {
+      "solution":"Purchase order automation",
+      "impact":"Increase of revenue through simplified ordering process",
+      "description":"Industrials can predict demand for supply and automate the ordering process to ensure a seamless production with just-in-time deliveries. This will also reduce costs of stock keeping."
+    },
+    {
+      "solution":"Quality assurance",
+      "impact":"Reduction of costs from production failures",
+      "description":"Industrials can identify reasons for production failures by analyzing sensor data from the involved machines. They can identify which states of the machines were responsible for the production failures in order to take actions and avoid the errors."
+    },
+    {
+      "solution":"Planning and scheduling",
+      "impact":"Cost reduction through better production planning",
+      "description":"Industrials can optimize their production planning by merging demand, supply and process information and establish a schedule that has short downtimes and highest output."
+    },
+    {
+      "solution":"Energy efficiency",
+      "impact":"Cost reduction of energy expenses",
+      "description":"Industrials can reduce energy usage by identifying process steps with high energy usage and adjusting the whole process to minimize energy costs (or to maximize overall profitability)."
+    },
+    {
+      "solution":"Stock optimization",
+      "impact":"Cost reduction from reduced stock",
+      "description":"Industrials can minimize stock keeping for a given service level for their customers"
+    }
+  ]
+},{
+  "icons": "utilities.svg",
+  "title": "Materials production & processing ",
+  "keywords": "Including: chemicals, construction, packaging, metals, paper, etc.",
+  "solutions": [
+    {
+      "solution": "Call center routing",
+      "impact": "Cost reduction for call center operations",
+      "description": "Utilities can automatically route customers to the best service personnel available significantly reducing costs in the call center and time by customer spent on service calls."
+    },
+    {
+      "solution": "Predictive Issue identification",
+      "impact": "Cost reduction through faster identification of failures",
+      "description": "Utilities can identify potential issues in their power plants and grid in order to avoid long troubleshooting processes with service personnel."
+    },
+    {
+      "solution": "Churn",
+      "impact": "Revenue increase through extended customer relationships",
+      "description": "Utilities can identify likely churners and identify offers that will convince them to stay."
+    },
+    {
+      "solution":"Predictive Maintenance",
+      "impact":"Cost reduction for through reduced number of outages",
+      "description":"Utilities can avoid outage periods of machinery in their power plants predicting failures and adjusting maintenance cycles accordingly."
+    },
+    {
+      "solution":"Customer segmentation",
+      "impact":"Revenue increase through improved customer relationships",
+      "description":"Utilities can improve their customer understanding in order to adjust tactical and strategic decisions towards their customers' needs. "
+    },
+    {
+      "solution":"Pricing",
+      "impact":"Margin increase through optimized pricing",
+      "description":"Utilities can optimize their pricing strategy by identifying willingness to pay. Also, utilities can use competitive intelligence to adjust their prices and leverage local and temporal information to make prices dynamic."
+    },
+    {
+      "solution":"Personalized promotions",
+      "impact":"Revenues through upselling due to more relevant promotions",
+      "description":"Utilities can make customer offers to customers based on their needs. By understanding which promotions are meaningful for a specific customer, retailers can move away from mass communication to personalized interactions with their customers."
+    },
+    {
+      "solution":"Lead generation",
+      "impact":"Revenue increase through additional customers",
+      "description":"Utilities can identify high-value leads to target by leveraging public and buyable information (e.g. demographics, potential customers moving, etc.)"
+    },
+    {
+      "solution":"Fraud detection",
+      "impact":"Cost reduction from reduced fraud",
+      "description":"Utilities can detect and avoid fraud through customers or customers unable to pay their utility bills."
+    }
+  ]
+},{
+  "icons":"retail.svg",
+  "title":"Retail and distributors",
+  "keywords":" Including: stationery, food, clothing, drugs, hypermarkets, special interest, etc.",
+  "solutions": [
+    {
+      "solution":"Promotion effectiveness",
+      "impact":"Cost reduction for promotions",
+      "description":"Retailers gain transparency on the effectiveness of promotion activities (revenue, margin, store visits) in order to develop strategies for more impact-focused campaign management and discounts."
+    },
+    {
+      "solution":"Assortment optimization",
+      "impact":"Cost reduction through reduced product complexity and improved supply chain",
+      "description":"Retailers can tailor their assortment towards customer needs by de-listing products that are substitutable and therefore reduce complexity in the entire supply chain."
+    },
+    {
+      "solution":"Vendor negotiations",
+      "impact":"Margin improvement through better purchase prices",
+      "description":"Through a better understanding of products and assortment, retailers have an advantage over CPGs in vendor negotiations."
+    },
+    {
+      "solution":"Customer segmentation",
+      "impact":"Revenue increase through improved customer relationships",
+      "description":"Retailers gain transparency on their customers and various customer groups. They can make campaigns and offers more targeted, and streamline the assortment towards customer's needs."
+    },
+    {
+      "solution":"Store segmentation",
+      "impact":"Revenue increase through improved store footprint",
+      "description":"Retailers gain transparency on their stores and different types of stores which helps them to derive a specific strategy for each sales location. "
+    },
+    {
+      "solution":"Pricing",
+      "impact":"Margin increase through optimized pricing",
+      "description":"Retailers can optimize their pricing strategy by identifying Key Value Indicators, i.e. products for which price is exceptionally important. Also, retailers can use competitive intelligence to adjust their prices and leverage local and temporal information to make prices dynamic."
+    },
+    {
+      "solution":"Personalized promotions",
+      "impact":"Revenue increase through upselling",
+      "description":"Retailers can make customer offers to customers based on their needs. By understanding which promotions are meaningful for a specific customer, retailers can move away from mass communication to personalized interactions with their customers."
+    },
+    {
+      "solution":"Demand forecasting",
+      "impact":"Cost reduction for stocks and revenue increase through additional sales",
+      "description":"Retailers gain knowledge of customer demand for every product in advance and can plan logistics and sales accordingly."
+    },
+    {
+      "solution":"Stock optimization",
+      "impact":"Reduction of inventory costs",
+      "description":"Retailers minimize stock keeping at a given service level for their customers."
+    },
+    {
+      "solution":"Supply Chain Optimization",
+      "impact":"Cost reduction in the supply chain",
+      "description":"Retailers can optimize delivery routes, intermediate storage etc. to reduce logistics costs."
+    },
+    {
+      "solution":"Branch footprint",
+      "impact":"Revenue increase through improved store locations",
+      "description":"Retailers can find the ideal location for their next branch or decide which stores to close/merge."
+    },
+    {
+      "solution":"Trend forecasting",
+      "impact":"Increase revenues through increased sales volume",
+      "description":"Retailers can predict future customer trends to plan purchases and sales strategies ahead."
+    },
+    {
+      "solution":"Fraud detection",
+      "impact":"Reduce costs through reduced fraud ",
+      "description":"Retailers can detect and avoid fraud through own staff or customers."
+    }
+  ]
+}
+]

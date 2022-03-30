@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="58px" height="71px" viewBox="0 0 58 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Solution-finder-step-04" transform="translate(-199.000000, -408.000000)" stroke="#FFFFFF" stroke-width="2">
+            <g id="Solution-01-HOVER" transform="translate(130.000000, 360.000000)">
+                <g id="Group-23" transform="translate(70.000000, 49.000000)">
+                    <polyline id="Stroke-1" points="18 34.7272727 18 42 0 42 0 26 13.5 26"></polyline>
+                    <polyline id="Stroke-3" points="4 33.5 8.8 38 20 26"></polyline>
+                    <polyline id="Stroke-5" points="18 59.7272727 18 67 0 67 0 51 13.5 51"></polyline>
+                    <polyline id="Stroke-7" points="4 57.5 8.8 62 20 50"></polyline>
+                    <polyline id="Stroke-9" points="18 10.7272727 18 18 0 18 0 2 13.5 2"></polyline>
+                    <polyline id="Stroke-11" points="4 9.5 8.8 14 20 2"></polyline>
+                    <path d="M50,47 C53.2415,47 56,43.8033333 56,40.7777778 L56,26.7777778 C56,21.6397778 46.211,19 41,19 C35.789,19 26,21.6382222 26,26.7777778 L26,40.7777778 C26,43.8033333 28.7585,47 32,47" id="Stroke-13" stroke-linejoin="round"></path>
+                    <path d="M41,16 C44.4965,16 47,13.3872 47,9.6 L47,6.4 C47,2.6128 44.4965,0 41,0 C37.505,0 35,2.6128 35,6.4 L35,9.6 C35,13.3872 37.505,16 41,16 Z" id="Stroke-15" stroke-linejoin="round"></path>
+                    <path d="M50,70 L50,30" id="Stroke-17" stroke-linejoin="round"></path>
+                    <path d="M32,30 L32,70" id="Stroke-19" stroke-linejoin="round"></path>
+                    <path d="M41,46 L41,70" id="Stroke-21" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

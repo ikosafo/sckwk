@@ -1,0 +1,34 @@
+{
+  "driver": [
+    {
+      "headline": "Working Capital",
+      "subline": "Free up capital through rapid increase of capital efficiency",
+      "image": "/static/images/04 Retail Solutions/02-solutions/assortment.svg",
+      "text": "Companies can leverage AI to drive capital efficiency through digesting massive amounts of aggregated data, e.g. to analyse customer behaviours, identify critical stock patterns or problematic suppliers. Continuous updates through automated data pipeline ensure sustainability of measures and consideration of current economic conditions and trends set a dynamic and responsive environment for decision-making."
+    },
+    {
+      "headline": "Demand forecasting",
+      "subline": "Cost reduction from optimized production planning and minimized stock levels",
+      "image": "/static/images/04 Retail Solutions/02-solutions/promotion-effectiveness.svg",
+      "text": "Manufacturers can adjust production volume for each product to the actual demand by forecasting it and then adjusting the production planning accordingly. Also, stock levels for supply and products can be reduced in order to reduce storage costs."
+    },
+    {
+      "headline": "Quality assurance",
+      "subline": "Cost reduction from reduced manufacturing errors",
+      "image": "/static/images/04 Retail Solutions/02-solutions/customer-segment.svg",
+      "text": "Manufacturers can identify reasons for production failures by analyzing sensor data from the involved equipment. They can identify which states of the machines were responsible for the production failures in order to take actions and avoid the manufacturing errors going forward."
+    },
+    {
+      "headline": "Process Excellence",
+      "subline": "Cost reduction through faster and more reliable business processes",
+      "image": "/static/images/04 Retail Solutions/02-solutions/personal-promotion.svg",
+      "text": "Companies can identify potential issues in their business processes through process mining. Connection of transactional data is fast and easy, pre-built models identify process pain points, gives recommendations on what to improve and continuously monitors the success of your process improvements."
+    },
+    {
+      "headline": "Risk Management",
+      "subline": "Efficiency increase through more precise risk assessment and data-driven mitigation",
+      "image": "/static/images/04 Retail Solutions/02-solutions/pricing.svg",
+      "text": "Companies can predict the Probability of Default (PD) and Exposure at Default (EAD) more precisely by using Machine Learning models compared to traditional score cards. Directly tied to transactional systems, algorithms can also detect anomalies and reduce manual investigations across data-heavy verification processes."
+    }
+  ]
+}

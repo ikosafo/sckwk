@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="27px" viewBox="0 0 33 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>step-by-step</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-789.000000, -162.000000)">
+            <g id="NAV-Secondary-menu" transform="translate(763.000000, 81.000000)">
+                <g id="Group-3" transform="translate(27.000000, 27.000000)">
+                    <g id="step-by-step" transform="translate(0.000000, 55.000000)">
+                        <circle id="Oval-Copy-6" stroke="#DF265E" stroke-width="0.7" cx="6.5" cy="6.5" r="6.5"></circle>
+                        <circle id="Oval-Copy-13" stroke="#DF265E" stroke-width="0.7" cx="15.5" cy="18.5" r="6.5"></circle>
+                        <circle id="Oval-Copy-14" stroke="#DF265E" stroke-width="0.7" cx="24.5" cy="6.5" r="6.5"></circle>
+                        <text id="A" font-family="WorkSans-Regular, Work Sans" font-size="9" font-weight="normal" fill="#DF265E">
+                            <tspan x="4.03" y="9">A</tspan>
+                        </text>
+                        <text id="B" font-family="WorkSans-Regular, Work Sans" font-size="9" font-weight="normal" fill="#DF265E">
+                            <tspan x="13.0615" y="21">B</tspan>
+                        </text>
+                        <text id="C" font-family="WorkSans-Regular, Work Sans" font-size="9" font-weight="normal" fill="#DF265E">
+                            <tspan x="21.413" y="9">C</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

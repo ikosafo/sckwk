@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="130px" height="130px" viewBox="0 0 130 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>External</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-1054.000000, -959.000000)">
+            <g id="02-Problem" transform="translate(0.000000, 780.000000)">
+                <g id="External" transform="translate(1055.000000, 180.000000)">
+                    <path d="M30,89 L30,83.9941599 C30,82.090272 25.325,79 21.5034,79 C17.6818,79 13,82.090272 13,83.9941599 L13,89" id="Stroke-1" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M21,79 C17.9933333,79 16,76.314659 16,73.0015073 L16,71.0002512 C16,67.685341 17.9933333,65 21,65 C24.0066667,65 26,67.685341 26,71.0002512 L26,73.0015073 C26,76.314659 24.0066667,79 21,79 Z" id="Stroke-3" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M76,89 L76,83.9941599 C76,82.0919406 71.325,79 67.5034,79 C63.6818,79 59,82.0919406 59,83.9941599 L59,89" id="Stroke-5" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M68,79 C64.9933333,79 63,76.3143216 63,73.0007538 L63,70.9992462 C63,67.6856784 64.9933333,65 68,65 C71.0066667,65 73,67.6856784 73,70.9992462 L73,73.0007538 C73,76.3143216 71.0066667,79 68,79 Z" id="Stroke-7" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M66,59 L66,53.9941599 C66,52.0919406 61.325,49 57.5034,49 C53.6818,49 49,52.0919406 49,53.9941599 L49,59" id="Stroke-9" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M57,49 C53.9933333,49 52,46.3160804 52,43.0007538 L52,40.9992462 C52,37.6856784 53.9933333,35 57,35 C60.0066667,35 62,37.6856784 62,40.9992462 L62,43.0007538 C62,46.3160804 60.0066667,49 57,49 Z" id="Stroke-11" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M40,59 L40,53.9941599 C40,52.0919406 35.325,49 31.5034,49 C27.6818,49 23,52.0919406 23,53.9941599 L23,59" id="Stroke-13" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M32,49 C28.9933333,49 27,46.3160804 27,43.0007538 L27,40.9992462 C27,37.6856784 28.9933333,35 32,35 C35.0066667,35 37,37.6856784 37,40.9992462 L37,43.0007538 C37,46.3160804 35.0066667,49 32,49 Z" id="Stroke-15" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M53,89 L53,83.9941599 C53,82.0919406 48.325,79 44.5034,79 C40.6818,79 36,82.0919406 36,83.9941599 L36,89" id="Stroke-17" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M45,78 C41.9933333,78 40,75.3143216 40,72.0007538 L40,69.9992462 C40,66.6856784 41.9933333,64 45,64 C48.0066667,64 50,66.6856784 50,69.9992462 L50,72.0007538 C50,75.3143216 48.0066667,78 45,78 Z" id="Stroke-19" stroke="#979797" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M115,71 L115,65.9933244 C115.0017,64.0907877 110.325,61 106.5034,61 C102.6818,61 98.0017,64.0907877 98,65.9933244 L98,71" id="Stroke-21" stroke="#DF265E" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <path d="M85.5,30 L85.5,96" id="Line-5" stroke="#DF265E" stroke-linecap="square"></path>
+                    <path d="M107,61 C103.993333,61 102,58.314659 102,54.9997488 L102,52.9984927 C102,49.685341 103.993333,47 107,47 C110.006667,47 112,49.685341 112,52.9984927 L112,54.9997488 C112,58.314659 110.006667,61 107,61 Z" id="Stroke-23" stroke="#DF265E" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="Oval-Copy-12" stroke="#E3E3E3" cx="64" cy="64" r="64"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

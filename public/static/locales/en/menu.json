@@ -1,0 +1,155 @@
+[
+  {
+    "title": "Home",
+    "slug": "/",
+    "description": [
+      "Overview",
+      "Why SCALEWORK",
+      "Our partners",
+      "Our clients",
+      "Next steps"
+    ],
+    "links": [
+      "/#overview",
+      "/#why-scalework",
+      "/#partners",
+      "/#our-clients",
+      "/#next-steps"
+    ]
+  },
+  {
+    "title": "About",
+    "slug": "/about",
+    "description": [],
+    "links": [],
+    "icons": []
+  },
+  {
+    "title": "Insights",
+    "slug": "https://blog.scalework.com",
+    "description": [],
+    "links": [],
+    "icons": []
+  },
+  {
+    "title": "Solutions",
+    "slug": "/solutions",
+    "description": [
+      "Overview",
+      "Retail",
+      "Manufacturing",
+      "Telecommumication",
+      "SaaS",
+      "Finance"
+    ],
+    "links": [
+      "/solutions ",
+      "/retail",
+      "/manufacturing",
+      "/telecommunication",
+      "/saas",
+      "/finance"
+    ],
+    "icons": [
+      "proposition",
+      "step-by-step",
+      "data-security",
+      "data-experts",
+      "client-examples",
+      "saas"
+    ]
+  },
+  {
+    "title": "",
+    "slug": "",
+    "description": [],
+    "links": []
+  },
+  {
+    "title": "Get started!",
+    "slug": "/finder",
+    "description": [
+      "Solution finder",
+      "Select from our services",
+      "Source data expert"
+    ],
+    "links": ["/finder", "/finder", "/finder"]
+  },
+  {
+    "title": "Company",
+    "slug": "/about",
+    "description": [
+      "Our story",
+      "About us",
+      "Locations",
+      "Contact us",
+      "Follow us",
+      "Join us"
+    ],
+    "links": [
+      "/about",
+      "/about#aboutus",
+      "/about#locations",
+      "/about#contact",
+      "/about#newsletter",
+      "/about#join-us"
+    ]
+  },
+  {
+    "title": "Get in touch",
+    "slug": "/contact",
+    "description": [
+      "Email us",
+      "Call us",
+      "Request a call",
+      "Visit us",
+      "Follow us",
+      "Get updates (newsletter)"
+    ],
+    "links": [
+      "/contact",
+      "/contact",
+      "/contact",
+      "/about#locations",
+      "/about#newsletter",
+      "/about#newsletter"
+    ]
+  },
+  {
+    "title": "  Career opportunities",
+    "slug": "/career",
+    "description": [
+      "For data scientists",
+      "For data experts",
+      "For data engineers",
+      "For machine learning engineers",
+      "For data engineers",
+      "For data project managers",
+      "For project managers",
+      "Technology",
+      "Business",
+      "Internships / working students"
+    ],
+    "links": [
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career"
+    ]
+  },
+  {
+    "title": "Legal notes",
+    "slug": "/imprint",
+    "description": ["Legal note (“Impressum”)", "Privacy note"],
+    "links": [
+      "/imprint",
+      "https://app.termly.io/document/privacy-policy/1d0c2d4d-c9c2-4f01-a18a-e90fbc3b15fc"
+    ]
+  }
+]

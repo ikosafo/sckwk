@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="229px" viewBox="0 0 229 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 225 225 225 225 0 0 0"></polygon>
+        <polygon id="path-3" points="0 225 225 225 225 0 0 0"></polygon>
+    </defs>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Industry-Solutions" transform="translate(-1175.000000, -2201.000000)">
+            <g id="Group-4" transform="translate(1175.000000, 2201.000000)">
+                <g id="Store-Segmentation" transform="translate(4.000000, 4.000000)">
+                    <path d="M164,47.0652174 L164,23.6956522 C164,13.3709783 155.624441,5 145.294118,5 L42.4117647,5 L5,42.3913043 L5,201.304348 C5,211.629022 13.3755588,220 23.7058824,220 L145.294118,220 C155.624441,220 164,211.629022 164,201.304348 L164,177.934783" id="Stroke-1" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-3" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" points="42 5 42 42 5 42"></polyline>
+                    <path d="M220,113.5 C220,85.0579545 196.942045,62 168.5,62 C140.057955,62 117,85.0579545 117,113.5 C117,141.942045 140.057955,165 168.5,165 C196.942045,165 220,141.942045 220,113.5 Z" id="Stroke-5" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-7" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" points="168 61 168 113 220 113"></polyline>
+                    <path d="M168,112 L149,131" id="Stroke-9" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-12"></g>
+                    <polygon id="Stroke-11" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="24 99 99 99 99 62 24 62"></polygon>
+                    <path d="M37,79.5 L84,79.5" id="Stroke-13" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <polygon id="Stroke-14" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="24 197 99 197 99 160 24 160"></polygon>
+                    <path d="M37,178.5 L84,178.5" id="Stroke-15" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <polyline id="Stroke-16" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="76 99 94.6666667 118 104 118"></polyline>
+                    <polyline id="Stroke-17" stroke="#8E24AA" stroke-width="10" stroke-linejoin="round" mask="url(#mask-2)" points="99 178 121.857143 178 131 168"></polyline>
+                </g>
+                <g id="Store-Segmentation">
+                    <path d="M164,47.0652174 L164,23.6956522 C164,13.3709783 155.624441,5 145.294118,5 L42.4117647,5 L5,42.3913043 L5,201.304348 C5,211.629022 13.3755588,220 23.7058824,220 L145.294118,220 C155.624441,220 164,211.629022 164,201.304348 L164,177.934783" id="Stroke-1" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-3" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" points="42 5 42 42 5 42"></polyline>
+                    <path d="M220,113.5 C220,85.0579545 196.942045,62 168.5,62 C140.057955,62 117,85.0579545 117,113.5 C117,141.942045 140.057955,165 168.5,165 C196.942045,165 220,141.942045 220,113.5 Z" id="Stroke-5" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round"></path>
+                    <polyline id="Stroke-7" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" points="168 61 168 113 220 113"></polyline>
+                    <path d="M168,112 L149,131" id="Stroke-9" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round"></path>
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-12"></g>
+                    <polygon id="Stroke-11" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="24 99 99 99 99 62 24 62"></polygon>
+                    <path d="M37,79.5 L84,79.5" id="Stroke-13" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <polygon id="Stroke-14" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="24 197 99 197 99 160 24 160"></polygon>
+                    <path d="M37,178.5 L84,178.5" id="Stroke-15" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)"></path>
+                    <polyline id="Stroke-16" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="76 99 94.6666667 118 104 118"></polyline>
+                    <polyline id="Stroke-17" stroke="#6A1B9A" stroke-width="10" stroke-linejoin="round" mask="url(#mask-4)" points="99 178 121.857143 178 131 168"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

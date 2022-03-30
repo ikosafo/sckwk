@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 23</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-739.000000, -4161.000000)" stroke="#6A1B9A" stroke-width="2">
+            <g id="04-Why-SCALEWORK" transform="translate(0.000000, 3575.000000)">
+                <g id="Group-23" transform="translate(740.000000, 587.000000)">
+                    <path d="M78.5,60 L86,60 L86,40.7142857 C86,36.4540714 82.641875,33 78.5,33 L63.5,33 C59.358125,33 56,36.4540714 56,40.7142857 L56,60 L63.5,60" id="Stroke-1"></path>
+                    <path d="M79,22.5 C79,18.358125 75.641875,15 71.5,15 C67.358125,15 64,18.358125 64,22.5 C64,26.641875 67.358125,30 71.5,30 C75.641875,30 79,26.641875 79,22.5 Z" id="Stroke-3"></path>
+                    <path d="M64,52 L64,82.2222222 C64,84.3075556 65.68,86 67.75,86 L75.25,86 C77.32,86 79,84.3075556 79,82.2222222 L79,52" id="Stroke-5"></path>
+                    <path d="M71,66 L71,86" id="Stroke-7"></path>
+                    <path d="M64,9.34782609 L64,7.47826087 C64,3.3483913 60.6287059,0 56.4705882,0 L15.0588235,0 L0,14.9565217 L0,78.5217391 C0,82.6516087 3.37129412,86 7.52941176,86 L58.3529412,86" id="Stroke-9"></path>
+                    <polyline id="Stroke-11" points="15 0 15 15 0 15"></polyline>
+                    <path d="M28,59 L24,59 C21.792,59 20,57.432 20,55.5 C20,53.568 21.792,52 24,52 L28,52 C30.208,52 32,53.568 32,55.5" id="Stroke-13"></path>
+                    <path d="M24,59 L28,59 C30.208,59 32,60.568 32,62.5 C32,64.432 30.208,66 28,66 L24,66 C21.792,66 20,64.432 20,62.5" id="Stroke-15"></path>
+                    <path d="M27,53 L27,49" id="Stroke-17"></path>
+                    <path d="M27,71 L27,67" id="Stroke-19"></path>
+                    <path d="M21.1818182,28.0588235 L28.6363636,28.0588235 L28.6363636,43.1176471 L26.7727273,43.1176471 C17.5085909,43.1176471 10,50.7016471 10,60.0588235 C10,69.416 17.5085909,77 26.7727273,77 C36.0368636,77 43.5454545,69.416 43.5454545,60.0588235 L43.5454545,28.0588235 L51,28.0588235 L36.0909091,13 L21.1818182,28.0588235 Z" id="Stroke-21"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="25px" viewBox="0 0 26 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>others</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Solution-finder-step-02" transform="translate(-601.000000, -686.000000)" stroke="#6A1B9A">
+            <g id="Industries" transform="translate(131.000000, 344.000000)">
+                <g id="others" transform="translate(471.000000, 343.000000)">
+                    <circle id="Oval" cx="5" cy="5" r="5"></circle>
+                    <rect id="Rectangle" x="15.5" y="5.5" width="9" height="9"></rect>
+                    <polygon id="Triangle" points="9 14 15 23.3940893 3 23.3940893"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

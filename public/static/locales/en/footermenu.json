@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Home",
+    "slug": "/",
+    "description": [
+      "Overview",
+      "Why SCALEWORK",
+      "Our partners",
+      "Our clients",
+      "Next steps"
+    ],
+    "links": [
+      "/#overview",
+      "/#why-scalework",
+      "/#partners",
+      "/#our-clients",
+      "/#next-steps"
+    ]
+  },
+  {
+    "title": "Industry Solutions",
+    "slug": "/solutions",
+    "description": [
+      "Overview",
+      "Solution finder",
+      "Retail",
+      "Manufacturing",
+      "Telecommumication",
+      "SaaS",
+      "Finance"
+    ],
+    "links": [
+      "/solutions ",
+      "/finder",
+      "/retail",
+      "/manufacturing",
+      "/telecommunication",
+      "/saas",
+      "/finance"
+    ],
+    "icons": [
+      "proposition",
+      "step-by-step",
+      "data-security",
+      "data-experts",
+      "client-examples",
+      "saas"
+    ]
+  },
+  {
+    "title": "  Career opportunities",
+    "slug": "/career",
+    "description": [
+      "For data scientists",
+      "For data experts",
+      "For machine learning engineers",
+      "For data engineers",
+      "For data project managers",
+      "For project managers",
+      "Technology",
+      "Business",
+      "Internships / working students"
+    ],
+    "links": [
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career",
+      "/career"
+    ]
+  },
+
+  {
+    "title": "Company",
+    "slug": "/about",
+    "description": [
+      "Our story",
+      "Locations",
+      "Contact us",
+      "Join us"
+    ],
+    "links": [
+      "/about",
+      "/about#locations",
+      "/about#contact",
+      "/about#join-us"
+    ]
+  },
+  {
+    "title": "Get in touch",
+    "slug": "/contact",
+    "description": [
+      "Email us",
+      "Request a call",
+      "Visit us",
+      "Follow us",
+      "Sign up for newsletter"
+    ],
+    "links": [
+      "/contact",
+      "/contact",
+      "/about#locations",
+      "https://de.linkedin.com/company/scalework",
+      "/#newsletter"
+    ]
+  },
+  {
+    "title": "Legal notes",
+    "slug": "/imprint",
+    "description": ["Legal note (“Impressum”)", "Privacy note"],
+    "links": [
+      "/imprint",
+      "https://app.termly.io/document/privacy-policy/1d0c2d4d-c9c2-4f01-a18a-e90fbc3b15fc"
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="662px" height="656px" viewBox="0 0 662 656" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>SW-Ring Copy 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="49.0613388%" cy="53.245236%" fx="49.0613388%" fy="53.245236%" r="40.3150055%" gradientTransform="translate(0.490613,0.532452),scale(0.990937,1.000000),rotate(165.452345),scale(1.000000,1.720913),translate(-0.490613,-0.532452)" id="radialGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#4A148C" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Company" transform="translate(-720.000000, -4746.000000)" fill="url(#radialGradient-1)">
+            <g id="07-Get-in-touch" transform="translate(0.000000, 4532.000000)">
+                <g id="SW-Ring-Copy-4" transform="translate(720.000000, 214.000000)">
+                    <path d="M466.430368,242.917752 C482.247413,267.624563 491.806624,296.677038 491.806624,328.024414 C491.806624,415.865426 419.669073,487.349163 330.975363,487.349163 C242.281652,487.349163 170.144101,415.865426 170.144101,328.024414 C170.144101,240.134574 242.281652,168.650837 330.975363,168.650837 C348.861928,168.650837 365.812281,172.264086 381.924972,177.635132 L508.954075,51.7573502 C457.511723,19.140454 396.559434,0 330.975363,0 C148.167771,0 0,146.873688 0,327.975586 C0,509.126312 148.167771,656 330.975363,656 C513.782955,656 662,509.126312 662,327.975586 C662,249.997767 634.357127,178.367547 588.433495,122.069222 L466.430368,242.917752 Z" id="SW-Ring"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

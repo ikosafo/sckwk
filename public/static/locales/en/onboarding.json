@@ -1,0 +1,224 @@
+{
+  "industry": "Industry",
+  "industry-question": "Which industry do you operate in?",
+  "industry-subline": "Please focus on the area that resembles your business-line of interest closest, so we can suggest more relevant applications in the next step. You can always come back and refine.",
+  "industries": [
+    "Bank",
+    "consumer",
+    "consumer-durable",
+    "ecommerce",
+    "farming",
+    "government",
+    "Healthcare",
+    "industrials",
+    "insurance",
+    "IT",
+    "Logistics",
+    "materials",
+    "media",
+    "Mining",
+    "Pharma",
+    "Prof",
+    "Real-estate",
+    "retail",
+    "Telecom",
+    "Travel",
+    "utilities"
+  ],
+  "question": "Business Question",
+  "question-question": "Data question",
+  "question-subline": "Which question you want to answer by data?",
+  "question-placeholder": "E.g.: What are the most common causes of voluntary termination based on employee performance reviews?",
+  "questions": [
+    "What are the most common causes of voluntary termination based on employee performance reviews?",
+    "Are our most satisfied employees the highest paid employees?",
+    "What is the deal mix between compensation and bonus to reward employees and motivate them to perform?",
+    "What percentage of our current employees are actively disengaged from work?",
+    "How effective are our learning programs? Does employee behavior change as a result of training?",
+    "How frequently are the same inspection errors being logged year over year?",
+    "How long does it take us to process paperwork and work through procurement processes relative to the time it takes to deliver the goods?",
+    "Do partners value improvements in process reduction time relative to our peers? What is the monetary impact of delays or missed deadlines?",
+    "Can we eliminate the number of touches in the supply chain process to reduce failures?",
+    "Based on the existing data available in our current BI tool, what types of decisions could I make if other sources of internal data were available for analysis?",
+    "Which digital marketing channels or combination of channels do sales qualified leads have a propensity to engage in?",
+    "Do certain regions have an affinity for purchasing our products? If so, what problem are they actually solving?",
+    "What blog subject lines are driving the most engagement? Is there a formula that works for us?",
+    "Do repeat customers have an affinity for promoting our products on social media?",
+    "How much marketing budget would I need to source leads that would convert to “x” sales target?",
+    "On average how long do leads stay in the opportunity stage before making a purchase?",
+    "Does the speed at which we reach out to a new lead impact the ability to have a sales conversation?",
+    "What are our top three most profitable customer segments?",
+    "Does my current commission structure motivate my sales reps to their full capacity?",
+    "What collateral and materials do my top 20% of reps typically leverage in deal cycles?",
+    "Can I reduce my operating expenses by 10%? If so, what should we cut?",
+    "How much more would I have to invest in marketing to drive a 30% increase in sales next year?",
+    "Is the business on track to meet sales objectives this quarter?",
+    "How many of my direct reports are consuming BI reports and analytics each month?",
+    "Can I demonstrate with data 5 ways I have been effective and 5 areas of improvement?"
+  ],
+  "datasource": "Datasource",
+  "datasource-question": "Which datasource are available.",
+  "datasource-subline": "To asses your project perfectly, define some of the sources your business can provide. You can also skip this step and fill out later.",
+  "profiles": "Profiles",
+  "profiles-question": "These data experts match your requirements",
+  "profiles-subline": "Ask these data experts to apply for your project as soon as possible. Just click the checkbox and signup.",
+  "profiles-match": "{{numProfiles}} profiles are matching",
+  "goal": "Goal",
+  "goal-question": "What would you like to achieve?",
+  "goal-subline": "First, let’s briefly assess where you stand in terms of your data application life cycle.",
+  "goals": [
+    [
+      "Explore",
+      "Learn about new valuable data applications for your company.",
+      "Choose this option, if you want to find your first opportunities to drive your business effectiveness with data."
+    ],
+    [
+      "Demonstrate",
+      "Build prototypes of data application to showcase business value.",
+      "Choose this option, if you already have a data application in mind and want to build a prototype to approximate the business value."
+    ],
+    [
+      "Scale",
+      "Build, update and integrate your data application into your daily operations.",
+      "Choose this option, if you want to build a robust and integrated application that constantly helps optimize your business decisions."
+    ],
+    [
+      "Source",
+      "Get tailored suggestions from the best data experts around the world to work on your challenges.",
+      "Choose this option if you already know your skill requirements and want to source additional on-demand data experts."
+    ]
+  ],
+  "usecase": "Usecase",
+
+  "usecase-question": "What would be your first data application?",
+  "usecase-subline": "If you have no particular data application in mind, simply click “Skip” at the top and we will revisit\nthis point later with you.",
+  "usecases-all": "all applications",
+  "usecases": {
+    "Cross-or Upsell": "Identify cross-sell opportunities and support sales efforts by personalized recommendations",
+    "Acquisition": "Identify potential high-value customers to prioritize acquisition efforts and make them more effective through targeted offers",
+    "Churn": "Identify potential churners and churn drivers in order to launch initiatives to prevent churn with targeted offerings and customized communication",
+    "Winback": "Reactivate previous customers with targeted offers leveraging customers’ preferences in order to increase conversion rate",
+    "Assortment optimization": "Optimize assortment through smart de-listing of products to save costs while minimizing risk to lose customers",
+    "Dynamic Pricing": "Implement real-time pricing engine based on competitive prices, key value items, customer preferences and behavior",
+    "Sales area planning": "Allocate sales force and sales areas to minimize traveling time and costs and increase time spend with customers",
+    "Marketing mix optimization": "Optimize allocation of marketing budget across channels and regions to increase effectiveness and efficiency of marketing efforts",
+    "Yield management": "Tune production processes and settings to maximize yield and quality of end products",
+    "Predictive maintenance": "Forecast optimal maintenance cycles enabling deployment of personnel and spare parts to reduce unexpected downtime",
+    "Demand planning": "Predict short and long term demand to ensure optimized production processes and sequences",
+    "Claims management": "Identify recovery potential in claims cases to allocate resources for collections, litigation etc.",
+    "Fraud or theft detection": "Detect fraud in accounting and theft in production and derive appropriate counteractive measures",
+    "Risk or bad debt prediction": "Quantify risk from bad debt for each customer/order to prevent losses by composing appropriate payment arrangements",
+    "Call center routing": "Optimize routing of customers in call centers to increase customer satisfaction and decrease costs",
+    "Workforce planning": "Predict workforce requirements in order to optimally allocate staff and increase utilization by reduced idle time",
+    "Supply chain optimization": "Optimize supply chain processes to ensure seamless just-in-time deliveries with optimal resource allocation",
+    "Site or district planning": "Optimize regional footprint in order to decrease shipping/logistics costs and improve reachability for customers",
+    "Human resources": "Support decision making on strategic workforce planning as well as recruiting, performance management, collaboration, retention of employees",
+    "Procurement optimization": "Optimize and automate purchasing processes to minimize procurement costs",
+    "Sales forecasting": "Predict expected sales to optimize internal processes",
+    "IoT": "Leverage sensor data to optimize complex systems and interactions between machines",
+    "Stock optimization": "Forecast demands to minimize stocks required while still keeping out-of-stock risk low"
+  },
+  "usecase2industry": {
+    "farming": ["Predictive maintenance", "Yield management", "IoT"],
+    "Mining": ["Predictive maintenance", "IoT", "Supply chain optimization"],
+    "Healthcare": ["Yield management", "Dynamic Pricing", "Stock optimization"],
+    "Pharma": ["Yield management", "Dynamic Pricing", "Stock optimization"],
+    "industrials": ["Workforce planning", "IoT", "Predictive maintenance"],
+    "materials": ["Workforce planning", "IoT", "Predictive maintenance"],
+    "Manufacturing": [
+      "Supply chain optimization",
+      "Stock optimization",
+      "Procurement optimization"
+    ],
+    "consumer": [
+      "Supply chain optimization",
+      "Stock optimization",
+      "Procurement optimization"
+    ],
+    "consumer-durable": [
+      "Supply chain optimization",
+      "Stock optimization",
+      "Procurement optimization"
+    ],
+    "Automotive": [
+      "Supply chain optimization",
+      "Stock optimization",
+      "Procurement optimization"
+    ],
+    "Passenger transportation": [
+      "Workforce planning",
+      "Human resources",
+      "IoT"
+    ],
+    "Logistics": ["Supply chain optimization", "Workforce planning", "IoT"],
+    "Travel": [
+      "Call center routing",
+      "Dynamic Pricing",
+      "Marketing mix optimization"
+    ],
+    "media": ["Cross-or Upsell", "Call center routing", "Churn"],
+    "utilities": [
+      "Call center routing",
+      "Risk or bad debt prediction",
+      "Acquisition"
+    ],
+    "Telecom": [
+      "Call center routing",
+      "Risk or bad debt prediction",
+      "Acquisition"
+    ],
+    "wholesale": [
+      "Cross-or Upsell",
+      "Assortment optimization",
+      "Sales area planning"
+    ],
+    "ecommerce": [
+      "Cross-or Upsell",
+      "Assortment optimization",
+      "Sales area planning"
+    ],
+    "retail": ["Cross-or Upsell", "Dynamic Pricing", "Sales area planning"],
+    "Bank": ["Cross-or Upsell", "Call center routing", "Churn"],
+    "insurance": ["Churn", "Fraud/theft detection", "Call center routing"],
+    "Real-estate": ["Workforce planning", "IoT", "Predictive maintenance"],
+    "Other Services": [
+      "Workforce planning",
+      "Cross-or Upsell",
+      "Call center routing"
+    ],
+    "government": [
+      "Procurement optimization",
+      "Human resources",
+      "Call center routing"
+    ],
+    "other-industry": ["Predictive maintenance", "Yield management", "IoT"],
+    "Prof": ["Predictive maintenance", "Yield management", "IoT"],
+    "IT": ["Predictive maintenance", "Yield management", "IoT"]
+  },
+  "involvement": "Setup",
+  "involvement-question": "Do you already know your ideal project setup?",
+  "involvement-subline": "To which degree would you like to integrate the project operations into your organisation?",
+  "involvement-yes": "Yes...",
+  "involvement-internal": "... I want to initiate the project individually and source additional data experts",
+  "involvement-external": "... I want an independent external project delivery",
+  "involvement-no": "No, not decided yet (Skip)",
+  "involvements": {
+    "complementary": "Complementary set-up, I have named an internal team and would like to add on demand expertise and capacity now.",
+    "internal-project-manager": "Internal project management, I the daily operations to be managed by an internal project manager.",
+    "external-project-manager": "External project management, I want to keep the organizational involvement throughout the project phase as lean as possible."
+  },
+  "involvements": [
+    [
+      "Complementary set-up",
+      "Complementary set-up, I have named an internal team and would like to add on demand expertise and capacity now."
+    ],
+    [
+      "Internal project management",
+      "Internal project management, the daily operations to be managed by an internal project manager."
+    ],
+    [
+      "External project management",
+      "External project management, I want to keep the organizational involvement throughout the project phase as lean as possible."
+    ]
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "driver": [
+      {
+        "headline": "Performance Drivers",
+        "subline": "Lead Scoring & Qualification",
+        "image": "/static/images/04 Retail Solutions/02-solutions/assortment.svg",
+        "text":"SaaS companies can gain advanced insights on their leads and different customer groups through analyzing data at later stages of the customer lifecycle. Through lead scoring models sales people will know on which leads to invest time and how to package personalized offers."
+      },{
+        "headline": "Pricing",
+        "subline": "Margin increase through optimized pricing",
+        "image": "/static/images/04 Retail Solutions/02-solutions/promotion-effectiveness.svg",
+        "text":"SaaS companies can optimize their pricing strategy by identifying key value items, i.e. products for which price is exceptionally important. In addition, companies can use competitive intelligence through web crawling to adjust their prices dynamically."
+      },{
+        "headline": "Customer churn",
+        "subline": "Revenue increased through improved Customer relationships",
+        "image": "/static/images/04 Retail Solutions/02-solutions/customer-segment.svg",
+        "text":"Companies can identify likely churners and identify offers that will convince them to stay."
+      },{
+        "headline": "Recommendation engine",
+        "subline": "Increased revenue through higher sales volume",
+        "image": "/static/images/04 Retail Solutions/02-solutions/store-segment.svg",
+        "text":"Companies can predict how customers respond to service offerings & product campaigns based on assessment of historic behavioural patterns."
+      }
+    ]
+  }

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="107px" viewBox="0 0 106 107" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>SW-Ring Copy 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="4.73510715%" y1="53.245236%" x2="100%" y2="53.245236%" id="linearGradient-1">
+            <stop stop-color="#DF265E" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.343586101" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-147.000000, -4862.000000)" fill="url(#linearGradient-1)">
+            <g id="06-Our-Clients" transform="translate(128.000000, 4807.000000)">
+                <g id="Group-6">
+                    <path d="M93.6852252,94.8816524 C96.2178638,98.8362486 97.7484927,103.486416 97.7484927,108.503908 C97.7484927,122.563826 86.197767,134.005582 71.9960551,134.005582 C57.7943431,134.005582 46.2436174,122.563826 46.2436174,108.503908 C46.2436174,94.4361742 57.7943431,82.9944176 71.9960551,82.9944176 C74.860067,82.9944176 77.5741719,83.5727577 80.1541496,84.4324525 L100.494157,64.284332 C92.2571641,59.0636397 82.4974321,56 71.9960551,56 C42.7247488,56 19,79.5087458 19,108.496092 C19,137.491254 42.7247488,161 71.9960551,161 C101.267361,161 125,137.491254 125,108.496092 C125,96.0148865 120.5738,84.5496837 113.220469,75.5385188 L93.6852252,94.8816524 Z" id="SW-Ring-Copy-2" transform="translate(72.000000, 108.500000) rotate(120.000000) translate(-72.000000, -108.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

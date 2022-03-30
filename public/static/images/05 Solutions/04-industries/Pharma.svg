@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="45px" viewBox="0 0 31 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Pharma</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.370467241 10.4997136 0.370467241 10.4997136 1.11184655 0 1.11184655"></polygon>
+    </defs>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Solutions" transform="translate(-406.000000, -2900.000000)">
+            <g id="04-Past-solutions" transform="translate(130.000000, 2182.000000)">
+                <g id="Industry-Icons" transform="translate(41.000000, 539.000000)">
+                    <g id="Pharma" transform="translate(235.000000, 180.000000)">
+                        <polyline id="Stroke-1" stroke="#6A1B9A" points="6 19.2758621 3 22.2413793 6 25.2068966 9 22.2413793"></polyline>
+                        <polyline id="Stroke-3" stroke="#6A1B9A" points="25.5 5.93103448 28.5 2.96650575 25.5 0 22.5 2.96551724"></polyline>
+                        <polygon id="Stroke-5" stroke="#6A1B9A" points="13.5 22.0931034 6.15 14.8275862 3 17.9413793 10.35 25.2068966"></polygon>
+                        <path d="M22.5,15.5689655 C22.5,17.6160991 20.8209375,19.2758621 18.75,19.2758621 C16.6790625,19.2758621 15,17.6160991 15,15.5689655 C15,13.5218319 16.6790625,11.862069 18.75,11.862069 C20.821875,11.862069 22.5,13.5218319 22.5,15.5689655 Z" id="Stroke-7" stroke="#6A1B9A"></path>
+                        <path d="M23.8928567,43 L30,43 L30,42.1103448 C30.0010173,39.7616552 28.6167316,38.5517241 25.9285709,38.5517241 L23.8928567,38.5517241 L7.60714274,38.5517241 L5.57142849,38.5517241 C2.88428569,38.5517241 1.5,39.7616552 1.5,42.1103448 L1.5,43 L7.60714274,43 L23.8928567,43 Z" id="Stroke-9" stroke="#6A1B9A"></path>
+                        <g id="Group-13" transform="translate(0.000000, 28.172414)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-12"></g>
+                            <path d="M-0.000286363636,0.741156897 L10.4997136,0.741156897" id="Stroke-11" stroke="#6A1B9A" mask="url(#mask-2)"></path>
+                        </g>
+                        <path d="M3,29.0692771 C4.5756293,34.5294139 9.85255877,38.5517241 16.2234485,38.5517241 C23.8321869,38.5517241 30,32.8193867 30,25.7478598 C30,21.1280359 27.3671479,17.0791695 23.4199108,14.8275862" id="Stroke-14" stroke="#6A1B9A"></path>
+                        <path d="M19.3351258,19.2758621 C22.1031717,20.5703485 24,23.2146413 24,26.2664577 C24,30.5943205 20.1852898,34.1034483 15.4783084,34.1034483 C12.024517,34.1034483 8.83840685,32.2115065 7.5,29.4952978" id="Stroke-16" stroke="#6A1B9A"></path>
+                        <polyline id="Stroke-18" stroke="#6A1B9A" points="15.8880789 17.7871724 12.6315789 20.7586207 7.5 16.076225 21.8684211 2.96551724 27 7.64791289 21.6939474 12.4904465"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

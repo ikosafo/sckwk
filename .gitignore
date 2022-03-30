@@ -1,0 +1,5 @@
+.idea
+*error*
+node_modules
+.next/
+.next

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="27px" viewBox="0 0 25 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 13</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-794.000000, -299.000000)" stroke="#DF265E" stroke-width="0.7">
+            <g id="NAV-Secondary-menu" transform="translate(763.000000, 81.000000)">
+                <g id="Group-3" transform="translate(27.000000, 27.000000)">
+                    <g id="Group-13" transform="translate(5.000000, 192.000000)">
+                        <path d="M23,24.4285714 C23,24.7445714 22.7176842,25 22.3684211,25 L11.6315789,25 C11.2823158,25 11,24.7445714 11,24.4285714 L11,17.5714286 C11,17.2554286 11.2823158,17 11.6315789,17 L22.3684211,17 C22.7176842,17 23,17.2554286 23,17.5714286 L23,24.4285714 Z" id="Stroke-1"></path>
+                        <path d="M14,13.5 C14,11.5673636 15.5673636,10 17.5,10 C19.4326364,10 21,11.5673636 21,13.5 L21,17 L14,17 L14,13.5 Z" id="Stroke-3"></path>
+                        <path d="M19,8.27272727 L19,3.54545455 C19,1.58777273 14.7469688,0 9.5,0 C4.25303125,0 0,1.58777273 0,3.54545455 L0,9.45454545 C0,11.4122273 4.25303125,13 9.5,13 C10.3199688,13 11.1161875,12.9615909 11.875,12.8883182" id="Stroke-5"></path>
+                        <path d="M0,3 C0,5.20866667 4.25303125,7 9.5,7 C14.7469688,7 19,5.20866667 19,3" id="Stroke-7"></path>
+                        <path d="M0,10 L0,15.4 C0,17.3878 4.476875,19 10,19" id="Stroke-9"></path>
+                        <path d="M0,16 L0,21.4 C0,23.3878 4.476875,25 10,25" id="Stroke-11"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

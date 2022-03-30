@@ -1,0 +1,17 @@
+{
+  "examples": {
+    "type" : ["Kundendatenbank","Produktionsdaten", "Maschinendaten"],
+    "solution" : ["Salesforce", "Microsoft Dynamics", "CSV Files"],
+    "persons": ["Peter Krause", "peter.lang@firma.de", "Frau Freundlich"],
+    "rows": ["1000 Zeilen", "10 Mio Zeilen", "10k Zeilen"]
+  },
+  "options": {
+    "type": ["Kundendatenbank","Verkaufsdaten","Produktionsdaten", "Maschinendaten"],
+    "rows": ["1000 Zeilen","10k Zeilen","100k Zeilen","10 Mio Zeilen","> 10 Mio Zeilen"]
+  },
+  "add": "Weitere Zeile hinzufuegen",
+  "column-type": "Beschreibung",
+  "column-solution": "eingesetzte Loesung",
+  "column-size": "Größe der Datenquelle",
+  "column-responsible": "interner Ansprechpartner"
+}

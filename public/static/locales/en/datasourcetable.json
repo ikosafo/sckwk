@@ -1,0 +1,17 @@
+{
+  "examples": {
+    "type" : ["Customer database","Manufacturing data", "Maschine data"],
+    "solution" : ["Salesforce", "Microsoft Dynamics", "CSV Files"],
+    "persons": ["Peter Krause", "peter.lang@company.com", "Mrs. Smith"],
+    "rows": ["1000 rows", "10 mio rows", "10k rows"]
+  },
+  "options": {
+    "type" : ["Customer database","Sales data","Manufacturing data", "Maschine data"],
+    "rows": ["1000 rows","10k rows","100k rows","10 mio rows","> 10 Mio rows"]
+  },
+  "add": "add row",
+  "column-type": "Description",
+  "column-solution": "solution in use",
+  "column-size": "Size of datasource",
+  "column-responsible": "responsible colleague"
+}

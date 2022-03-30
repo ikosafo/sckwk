@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="918px" viewBox="0 0 1440 918" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>why-scalework-background</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1440" height="918"></rect>
+        <radialGradient cx="49.0613388%" cy="53.245236%" fx="49.0613388%" fy="53.245236%" r="110.931228%" gradientTransform="translate(0.490613,0.532452),scale(0.990040,1.000000),rotate(42.452409),scale(1.000000,0.362655),translate(-0.490613,-0.532452)" id="radialGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#EAEAEA" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(0.000000, -3575.000000)">
+            <g id="04-Why-SCALEWORK" transform="translate(0.000000, 3575.000000)">
+                <g id="why-scalework-background">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#EAEAEA" xlink:href="#path-1"></use>
+                    <path d="M448.395906,292.079643 C472.384295,329.516487 486.88195,373.538072 486.88195,421.036993 C486.88195,554.137551 377.476963,662.452847 242.962635,662.452847 C108.448307,662.452847 -0.956680313,554.137551 -0.956680313,421.036993 C-0.956680313,287.862449 108.448307,179.547153 242.962635,179.547153 C270.089691,179.547153 295.796874,185.022106 320.233643,193.160551 L512.888054,2.4250093 C434.869743,-46.9975437 342.428508,-76 242.962635,-76 C-34.2863416,-76 -259,146.54946 -259,420.963007 C-259,695.45054 -34.2863416,918 242.962635,918 C520.211611,918 745,695.45054 745,420.963007 C745,302.807592 703.076368,194.270339 633.427838,108.964645 L448.395906,292.079643 Z" id="SW-Ring" fill="url(#radialGradient-3)" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+
+.alice-carousel__wrapper {
+    position: relative;
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+    overflow: hidden; }
+
+.alice-carousel__prev-btn{
+    text-align: left;
+}
+.alice-carousel__prev-btn span{
+    color: #DF265E;
+}
+.alice-carousel__next-btn{
+    text-align: right;
+}
+.alice-carousel__next-btn span {
+    color: #DF265E;
+}

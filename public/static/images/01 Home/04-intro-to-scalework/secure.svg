@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="110px" viewBox="0 0 78 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>secure</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-949.000000, -2700.000000)" stroke="#E3E3E3" stroke-width="2">
+            <g id="03-Quick-introduction" transform="translate(80.000000, 1953.000000)">
+                <g id="Group-Copy-2" transform="translate(749.000000, 642.000000)">
+                    <g id="secure" transform="translate(121.000000, 106.000000)">
+                        <path d="M38.5,97 C34.996875,97 10,73.4823905 10,54.1801567 L10,32.770235 C19.5,32.770235 33.75,23.2547142 38.49525,15 C43.25,23.2547142 57.5,32.770235 67,32.770235 L67,54.1801567 C67,73.4823905 42.003125,97 38.5,97 Z" id="Stroke-1"></path>
+                        <polyline id="Stroke-3" points="19 53.6 33.25 68 57 44"></polyline>
+                        <path d="M76,53.6871105 C76,79.6628403 42.75,108 38,108 C33.25,108 0,79.6628403 0,53.6871105 L0,25.3499508 C9.5,25.3499508 28.5,13.5428009 38,0 C47.5,13.5428009 66.5,25.3499508 76,25.3499508 L76,53.6871105 Z" id="Stroke-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

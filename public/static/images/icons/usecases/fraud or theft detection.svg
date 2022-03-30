@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="41px" viewBox="0 0 44 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Real-estate</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Solutions" transform="translate(-799.000000, -3053.000000)" stroke="#6A1B9A">
+            <g id="04-Past-solutions" transform="translate(130.000000, 2182.000000)">
+                <g id="Industry-Icons" transform="translate(41.000000, 539.000000)">
+                    <g id="Real-estate" transform="translate(629.000000, 333.000000)">
+                        <polyline id="Stroke-1" points="30 8.35714286 30 0 0 0 0 39 30 39 30 25.0714286"></polyline>
+                        <path d="M40.0497656,6.44783813 C38.9647615,5.36763708 36.2480818,6.3178822 34.0780736,8.47828431 L22.3718893,20.2563468 C18.5637195,24.0453456 14.0791594,30.2565016 15.16509,31.335781 C16.2500941,32.4159821 22.495122,27.9550835 26.3023653,24.1670064 L38.0094761,12.3880223 C40.1804109,10.2294635 41.1356963,7.52711751 40.0497656,6.44783813 Z" id="Stroke-3"></path>
+                        <path d="M13.5,33 L15,31.5" id="Stroke-5" stroke-linecap="round"></path>
+                        <path d="M34.3851881,9 L39.9269201,14.4538442 C40.6910266,15.2069298 40.6910266,16.4286449 39.9269201,17.1817305 L33,24" id="Stroke-7"></path>
+                        <path d="M21,21 L25.5,25.5" id="Stroke-9"></path>
+                        <path d="M40.5,6 L42,4.5" id="Stroke-11"></path>
+                        <path d="M10.5,33.75 L4.5,33.75" id="Stroke-13"></path>
+                        <path d="M10.5,6.75 L19.5,6.75" id="Stroke-15"></path>
+                        <path d="M6,11.25 L24,11.25" id="Stroke-17"></path>
+                        <path d="M6,14.25 L24,14.25" id="Stroke-19"></path>
+                        <path d="M6,18.75 L19.5,18.75" id="Stroke-21"></path>
+                        <path d="M6,21.75 L16.5,21.75" id="Stroke-23"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="201px" viewBox="0 0 201 201" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Pie-chart-01</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-How-it-works" transform="translate(-153.000000, -7923.000000)">
+            <g id="08-Specialization-breakdown" transform="translate(153.000000, 7737.000000)">
+                <g id="Pie-Technologies" transform="translate(0.000000, 186.000000)">
+                    <g id="Pie-chart-01">
+                        <path d="M101,100.888531 L3.46600648,127 C-10.9684223,73.1787634 20.9994253,17.8595267 74.8642122,3.43763534 C83.5912532,1.10166102 91.9653267,0 101,0 L101,100.888531 Z" id="Fill-1" fill="#6A1B9A"></path>
+                        <path d="M100.476022,100 L168,175.057214 C126.58333,212.381764 62.7746352,209.034263 25.4810235,167.579995 C14.4791895,155.352792 7.25412875,142.034048 3,126.140303 L100.476022,100 Z" id="Fill-5" fill="#212121"></path>
+                        <path d="M100,100.393474 L100,0 C155.779649,0 201,44.9480733 201,100.393474 C201,130.444711 190.050398,154.890719 167.581121,175 L100,100.393474 Z" id="Fill-9" fill="#DF265E"></path>
+                        <circle id="Oval" fill="#FFFFFF" cx="100" cy="101" r="79"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

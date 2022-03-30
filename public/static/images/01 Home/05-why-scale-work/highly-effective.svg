@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="88px" height="88px" viewBox="0 0 88 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 35</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-139.000000, -4161.000000)" stroke="#6A1B9A" stroke-width="2">
+            <g id="04-Why-SCALEWORK" transform="translate(0.000000, 3575.000000)">
+                <g id="Group-35" transform="translate(140.000000, 587.000000)">
+                    <path d="M24,54 C24,49.0284 19.9698,45 15,45 C10.0302,45 6,49.0284 6,54 C6,58.9716 10.0302,63 15,63 C19.9698,63 24,58.9716 24,54 Z" id="Stroke-1"></path>
+                    <path d="M30,86 L0,86 L0,78.3333333 C0,69.8655 6.71625,63 15,63 C23.28375,63 30,69.8655 30,78.3333333 L30,86 Z" id="Stroke-3"></path>
+                    <path d="M80,54 C80,49.0284 75.9698,45 71,45 C66.0302,45 62,49.0284 62,54 C62,58.9716 66.0302,63 71,63 C75.9698,63 80,58.9716 80,54 Z" id="Stroke-5"></path>
+                    <path d="M86,86 L56,86 L56,78.3333333 C56,69.8655 62.71625,63 71,63 C79.28375,63 86,69.8655 86,78.3333333 L86,86 Z" id="Stroke-7"></path>
+                    <path d="M30,6 L61.3157895,6 C63.3494737,6 65,7.68658824 65,9.76470588 L65,34.2352941 C65,36.3134118 63.3494737,38 61.3157895,38 L55.7894737,38" id="Stroke-9"></path>
+                    <path d="M21,6 L21,34.2352941 C21,36.3134118 22.792,38 25,38 L29,38" id="Stroke-11"></path>
+                    <path d="M21,6 L21,4 C21,1.792 22.6128,0 24.6,0 L33.6,0 C33.6,0 39,0 39,6" id="Stroke-13"></path>
+                    <polygon id="Stroke-15" points="40 24 40 14 30 24"></polygon>
+                    <path d="M38.6428571,15 L29,24.4444444 L29,45.2222222 C29,47.3075556 30.728,49 32.8571429,49 L52.1428571,49 C54.272,49 56,47.3075556 56,45.2222222 L56,18.7777778 C56,16.6924444 54.272,15 52.1428571,15 L38.6428571,15 Z" id="Stroke-17"></path>
+                    <path d="M35,32 L50,32" id="Stroke-19"></path>
+                    <path d="M35,39 L50,39" id="Stroke-21"></path>
+                    <path d="M43,54 L43,58" id="Stroke-23"></path>
+                    <path d="M43,62 L43,66" id="Stroke-25"></path>
+                    <path d="M43,69 L43,73" id="Stroke-27"></path>
+                    <path d="M43,76 L43,80" id="Stroke-29"></path>
+                    <path d="M51,76 L51,80" id="Stroke-31"></path>
+                    <path d="M35,76 L35,80" id="Stroke-33"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

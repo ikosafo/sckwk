@@ -1,0 +1,30 @@
+{
+  "driver": [
+    {
+      "headline": "Predictive Maintenance",
+      "subline": "Cost reduction from minimized number of outages",
+      "image": "/static/images/04 Retail Solutions/02-solutions/assortment.svg",
+      "text":"Manufacturers can avoid long outage periods of expensive machinery by predicting failures and adjusting maintenance cycles accordingly. They will benefit from an increase uptime of their valuable capex."
+    },{
+      "headline": "Demand forecasting",
+      "subline": "Cost reduction from optimized production planning and minimized stock levels",
+      "image": "/static/images/04 Retail Solutions/02-solutions/promotion-effectiveness.svg",
+      "text":"Manufacturers can adjust production volume for each product to the actual demand by forecasting it and then adjusting the production planning accordingly. Also, stock levels for supply and products can be reduced in order to reduce storage costs."
+    },{
+      "headline": "Quality assurance",
+      "subline": "Cost reduction from reduced manufacturing errors",
+      "image": "/static/images/04 Retail Solutions/02-solutions/customer-segment.svg",
+      "text":"Manufacturers can identify reasons for production failures by analyzing sensor data from the involved equipment. They can identify which states of the machines were responsible for the production failures in order to take actions and avoid the manufacturing errors going forward."
+    },{
+      "headline": "Yield optimization",
+      "subline": "Increased revenues through higher yield",
+      "image": "/static/images/04 Retail Solutions/02-solutions/store-segment.svg",
+      "text":"Manufacturers can identify drivers for high yield in very complex production processes. They can find the optimal set of control levers for reaching the optimal output of the production process."
+    },{
+      "headline": "Energy efficiency",
+      "subline": "Reduced costs by less energy waste",
+      "image": "/static/images/04 Retail Solutions/02-solutions/pricing.svg",
+      "text":"Manufacturers can reduce energy waste by identifying steps in the production process with unnecessarily high energy usage. They can adjust the whole process to minimize energy costs (or to maximize overall profitability)."
+    }
+  ]
+}

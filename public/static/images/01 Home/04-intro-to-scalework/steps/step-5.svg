@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="318px" height="321px" viewBox="0 0 318 321" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="SCALEWORK-WEBSITE-WIP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCALEWORK-Desktop-Home" transform="translate(-147.000000, -2804.000000)">
+            <g id="03-Quick-introduction" transform="translate(80.000000, 1953.000000)">
+                <g id="Group-Copy-3" transform="translate(8.000000, 793.000000)">
+                    <g id="Group-12">
+                        <path d="M283.464831,177.357075 C291.110532,189.293292 295.731299,203.328963 295.731299,218.473333 C295.731299,260.910595 260.861183,295.445421 217.988091,295.445421 C175.114998,295.445421 140.244883,260.910595 140.244883,218.473333 C140.244883,176.012482 175.114998,141.477656 217.988091,141.477656 C226.634164,141.477656 234.827689,143.223269 242.616301,145.818099 L304.020097,85.0047236 C279.153703,69.2470299 249.690361,60 217.988091,60 C129.621883,60 58,130.956801 58,218.449744 C58,305.966276 129.621883,376.923077 217.988091,376.923077 C306.354298,376.923077 378,305.966276 378,218.449744 C378,180.777533 364.637886,146.171939 342.439151,118.973405 L283.464831,177.357075 Z" id="SW-Ring" fill-opacity="0.2" fill="#E3E3E3" transform="translate(218.000000, 218.461538) rotate(240.000000) translate(-218.000000, -218.461538) "></path>
+                        <g id="delivery" transform="translate(166.000000, 167.000000)" stroke="#E3E3E3" stroke-width="2">
+                            <path d="M4.5,78 L0,78 L0,42.3076923 C0,29.9893846 10.0755,20 22.5,20 L63,20" id="Stroke-1"></path>
+                            <path d="M67.3076923,20 L80.6923077,20 C93.0106154,20 103,29.9893846 103,42.3076923 L103,78 L45,78" id="Stroke-3"></path>
+                            <path d="M23,20 C35.1484,20 45,29.9893846 45,42.3076923 L45,78" id="Stroke-5"></path>
+                            <path d="M72,56 C72,60.97025 67.97025,65 63,65 C58.02975,65 54,60.97025 54,56 C54,51.02975 58.02975,47 63,47 C67.97025,47 72,51.02975 72,56 Z" id="Stroke-7"></path>
+                            <polyline id="Stroke-9" points="72 8.90909091 81 8.90909091 81 0 63 0 63 49"></polyline>
+                            <path d="M52,103 L52,78" id="Stroke-11"></path>
+                            <path d="M65,78 L65,103" id="Stroke-13"></path>
+                            <polyline id="Stroke-15" points="45 78 9 78 9 42 40.5 42"></polyline>
+                            <polyline id="Stroke-17" points="15 49 30.9090909 62 40 62"></polyline>
+                            <path d="M25,63 L15,73" id="Stroke-19"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
